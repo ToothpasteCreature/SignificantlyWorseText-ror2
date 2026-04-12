@@ -1,8 +1,8 @@
  {
 	"strings": {
-		"ITEM_PICKUP_CONTEXT": "Get {0}",
-		"EQUIPMENT_PICKUP_CONTEXT": "Get {0}",
-		"EQUIPMENT_SWAP_CONTEXT": "Swap for {0}",
+		"ITEM_PICKUP_CONTEXT": "take {0}",
+		"EQUIPMENT_PICKUP_CONTEXT": "get equipped with {0}",
+		"EQUIPMENT_SWAP_CONTEXT": "swap for {0}",
 
 		"ITEM_CLOVER_NAME": "6 or 7 leaf clover",
 		"ITEM_CLOVER_PICKUP": "we're up all night to get fucky",
