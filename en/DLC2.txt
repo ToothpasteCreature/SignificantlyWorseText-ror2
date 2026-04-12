@@ -21,8 +21,8 @@
         "ACHIEVEMENT_MERIDIANEVENTTRIGGERACHIEVEMENT_NAME": "Prime Meridian",
         "ACHIEVEMENT_MERIDIANEVENTTRIGGERACHIEVEMENT_DESCRIPTION": "Defeated the False Son.",
 
-        "ACHIEVEMENT_COMMANDOMERIDIANEVENTTRIGGERACHIEVEMENT_NAME": "Commando: Cleared Prime Meridian",
-        "ACHIEVEMENT_COMMANDOMERIDIANEVENTTRIGGERACHIEVEMENT_DESCRIPTION": "As Commando, complete the Event on Prime Meridian",
+        "ACHIEVEMENT_COMMANDOMERIDIANEVENTTRIGGERACHIEVEMENT_NAME": "peashooter: Cleared Prime Meridian",
+        "ACHIEVEMENT_COMMANDOMERIDIANEVENTTRIGGERACHIEVEMENT_DESCRIPTION": "As peashooter, complete the Event on Prime Meridian",
 
         "ACHIEVEMENT_BANDIT2CLEARMERIDIANEVENT_NAME": "Bandit: Cleared Prime Meridian",
         "ACHIEVEMENT_BANDIT2CLEARMERIDIANEVENT_DESCRIPTION": "As Bandit, complete the Event on Prime Meridian.",
@@ -30,8 +30,8 @@
         "ACHIEVEMENT_CAPTAINCLEARMERIDIANEVENT_NAME": "Captain: Cleared Prime Meridian",
         "ACHIEVEMENT_CAPTAINCLEARMERIDIANEVENT_DESCRIPTION": "As Captain, complete the Event on Prime Meridian.",
 
-        "ACHIEVEMENT_COMMANDOCLEARMERIDIANEVENT_NAME": "Commando: Cleared Prime Meridian",
-        "ACHIEVEMENT_COMMANDOCLEARMERIDIANEVENT_DESCRIPTION": "As Commando, complete the Event on Prime Meridian.",
+        "ACHIEVEMENT_COMMANDOCLEARMERIDIANEVENT_NAME": "peashooter: Cleared Prime Meridian",
+        "ACHIEVEMENT_COMMANDOCLEARMERIDIANEVENT_DESCRIPTION": "As peashooter, complete the Event on Prime Meridian.",
 
         "ACHIEVEMENT_CROCOCLEARMERIDIANEVENT_NAME": "Acrid: Cleared Prime Meridian",
         "ACHIEVEMENT_CROCOCLEARMERIDIANEVENT_DESCRIPTION": "As Acrid, complete the Event on Prime Meridian.",
@@ -64,13 +64,13 @@
         "ACHIEVEMENT_VOIDSURVIVORCLEARMERIDIANEVENT_DESCRIPTION": "As 「V??oid Fiend』, complete the Event on Prime Meridian.",
 
         "ACHIEVEMENT_BARBECUEQUANTITYBISONINRUN_NAME": "CHEF: Barbecued Bison Recipe Complete",
-        "ACHIEVEMENT_BARBECUEQUANTITYBISONINRUN_DESCRIPTION": "As CHEF complete 10 recipes by searing an oiled bison with Sear.",
+        "ACHIEVEMENT_BARBECUEQUANTITYBISONINRUN_DESCRIPTION": "As romron gramsay complete 10 recipes by searing an oiled bison with Sear.",
 
         "ACHIEVEMENT_BURNMITHRIX_NAME": "CHEF: It's Getting Hot In Here!",
-        "ACHIEVEMENT_BURNMITHRIX_DESCRIPTION": "As CHEF apply 20 stacks of Burn at once to the final boss.",
+        "ACHIEVEMENT_BURNMITHRIX_DESCRIPTION": "As romron gramsay apply 20 stacks of Burn at once to the final boss.",
 
         "ACHIEVEMENT_ROLYPOLYHITFIVEAIRENEMIES_NAME": "CHEF: You've Always Been Crazy",
-        "ACHIEVEMENT_ROLYPOLYHITFIVEAIRENEMIES_DESCRIPTION": "As CHEF hit five airborne enemies with one instance of Roll.",
+        "ACHIEVEMENT_ROLYPOLYHITFIVEAIRENEMIES_DESCRIPTION": "As romron gramsay hit five airborne enemies with one instance of Roll.",
 
         "ACHIEVEMENT_UNLOCKFALSESON_NAME": "Purified Freedom",
         "ACHIEVEMENT_UNLOCKFALSESON_DESCRIPTION": "Purify the Heart of the False Son using the Halcyon Seed.",
@@ -143,7 +143,7 @@
 
         "CHEF_BODY_NAME": "romron gramsay",
         "CHEF_BODY_SUBTITLE": "take your jacket off and fuck off",
-        "CHEF_DESCRIPTION": "A survivor of high class, CHEF specializes in only the most exquisite meals and combos. As a culinary master, CHEF uses a variety of practiced skills in tandem for additional benefits.<style=cSub>\r\n\r\n< ! > Dice throws a spinning cleaver that lingers in the air. Release Dice's skill button again to recall them, dealing damage on the return trip.\r\n\r\n< ! > Roll into enemies to close the distance, you can’t give a nice Sear from far away. Sear oiled enemies for a much stronger roast. \n\n< ! > Extra oil is sometimes needed to handle bigger meals. Oil can be spread across Petrichor V, allowing you to cook your enemies or freeze them for leftovers!\r\n</style>\r\n",
+        "CHEF_DESCRIPTION": "A survivor of high class, romron gramsay specializes in only the most exquisite meals and combos. As a culinary master, romron gramsay uses a variety of practiced skills in tandem for additional benefits.<style=cSub>\r\n\r\n< ! > Dice throws a spinning cleaver that lingers in the air. Release Dice's skill button again to recall them, dealing damage on the return trip.\r\n\r\n< ! > Roll into enemies to close the distance, you can’t give a nice Sear from far away. Sear oiled enemies for a much stronger roast. \n\n< ! > Extra oil is sometimes needed to handle bigger meals. Oil can be spread across Petrichor V, allowing you to cook your enemies or freeze them for leftovers!\r\n</style>\r\n",
         "CHEF_BODY_LORE": "Garret pokes at his food in the mess hall of the quiet ship, anxiously awaiting their orbital entry.\n\nThe CHEF bot behind the counter hums opera poorly. It adds a cooked patty to a tall and precarious pile next to the grill, then slams a raw patty into the grill with a loud SLAP!\n\n\"Even junk gets bored, huh?” Garret said, eyeing the unstable pile of meat.\nThe CHEF bot whirs and snaps to attention, saluting Garret. Its chassis bursts open with a belch of flame.\n\nCHEF bot quickly slams the door shut again, the smell of burnt meat (and hair) fills the mess hall.\n\n\"Can\u2019t believe Kelvin keeps this thing around.\" Garret says testily, eyebrows singed.",
 
         "CHEF_OUTRO_FLAVOR": "..and so it left, unchanged in every way.",
@@ -201,7 +201,7 @@
 
         "SEEKER_BODY_NAME": "artificer 2",
         "SEEKER_BODY_SUBTITLE": "so full of healing yum",
-        "SEEKER_DESCRIPTION": "As a meditative mid-range brawler, Seeker utilizes powerful healing to sustain herself and her team.<style=cSub>\r\n\r\n< ! > Every third Spirit Punch in a row fires a high-damaging explosive burst of Soul. Flow between targets while holding the primary to deal maximum damage.\r\n\r\n< ! > Seeker\u2019s Unseen Hand heals you for every enemy hit. Prioritize enemy groups to maximize healing.\r\n\r\n< ! > Use Sojourn to escape dangerous situations, rush to teammates, or enter the fray. Use Sojourn again to end your flight to deal damage to enemies. While in Sojourn, your health quickly depletes, so use it wisely.\r\n\r\n< ! > Meditate places you in a vulnerable state, but increases ability damage, healing, and more for each successive completion. Positioning and timing are key to empowering you and your teammates. Reach the final gate to revive fallen allies and bless living ones.\r\n<\/style>\r\n",
+        "SEEKER_DESCRIPTION": "As a meditative mid-range brawler, artificer 2 utilizes powerful healing to sustain herself and her team.<style=cSub>\r\n\r\n< ! > Every third Spirit Punch in a row fires a high-damaging explosive burst of Soul. Flow between targets while holding the primary to deal maximum damage.\r\n\r\n< ! > artificer 2\u2019s Unseen Hand heals you for every enemy hit. Prioritize enemy groups to maximize healing.\r\n\r\n< ! > Use Sojourn to escape dangerous situations, rush to teammates, or enter the fray. Use Sojourn again to end your flight to deal damage to enemies. While in Sojourn, your health quickly depletes, so use it wisely.\r\n\r\n< ! > Meditate places you in a vulnerable state, but increases ability damage, healing, and more for each successive completion. Positioning and timing are key to empowering you and your teammates. Reach the final gate to revive fallen allies and bless living ones.\r\n<\/style>\r\n",
         "SEEKER_BODY_LORE": "(\\                                                       \/)\n(--)--------------------------------------(--)\n(\\                                                       \/)\nA new decree.\nSeeker_0222, Diviner of House Beyond, the Herald of your House neglects to report on Zone05_57820.\nThe Herald reported unconfirmed sightings of Blight on the surface.\nWe would see these hysterical rumors extinguished.\nOr perhaps you did not Sanitize the Blight correctly the first time, on Zone04_39666?\nYou know what must be done if Paradise evades our grasp again.\nRecover the Herald only if it does not interfere with your decree and return for reconditioning, report in hand.\nWe look forward to your success superseding their failure.\n\nThird Wing\nHouse Beyond",
 
         "SEEKER_PASSIVE_NAME": "Inner Strength",
@@ -243,8 +243,8 @@
         "SEEKER_OUTRO_FLAVOR": "..and so she left, burdened with knowledge.",
         "SEEKER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so she vanished, replacement en route.",
 
-        "OPTION_SEEKER_SOJOURNTOGGLE": "<style=cUserSetting>Toggle Seeker Sojourn and Reprieve</style>",
-        "OPTION_SEEKER_SOJOURNTOGGLE_DESCRIPTION": "Enable and disable Seeker's Sojourn and Reprieve abilities by tapping the Utility Skill button once instead of holding it.",
+        "OPTION_SEEKER_SOJOURNTOGGLE": "<style=cUserSetting>Toggle artificer 2 Sojourn and Reprieve</style>",
+        "OPTION_SEEKER_SOJOURNTOGGLE_DESCRIPTION": "Enable and disable artificer 2's Sojourn and Reprieve abilities by tapping the Utility Skill button once instead of holding it.",
 
         "FALSESON_BODY_NAME": "the forgotten",
         "FALSESONBOSS_BODY_NAME": "yoo hi providence",
@@ -498,13 +498,13 @@
         "CHEF_SKIN_ALT1_NAME": "PRES-10",
 
         "ACHIEVEMENT_FALSESONCLEARGAMEMONSOON_NAME": "False Son: Mastery",
-        "ACHIEVEMENT_FALSESONCLEARGAMEMONSOON_DESCRIPTION": "As False Son, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_FALSESONCLEARGAMEMONSOON_DESCRIPTION": "As False Son, beat the game or obliterate on PISSING",
 
-        "ACHIEVEMENT_SEEKERCLEARGAMEMONSOON_NAME": "Seeker: Mastery",
-        "ACHIEVEMENT_SEEKERCLEARGAMEMONSOON_DESCRIPTION": "As Seeker, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_SEEKERCLEARGAMEMONSOON_NAME": "artificer 2: Mastery",
+        "ACHIEVEMENT_SEEKERCLEARGAMEMONSOON_DESCRIPTION": "As artificer 2, beat the game or obliterate on PISSING",
 
         "ACHIEVEMENT_CHEFCLEARGAMEMONSOON_NAME": "CHEF: Mastery",
-        "ACHIEVEMENT_CHEFCLEARGAMEMONSOON_DESCRIPTION": "As CHEF, beat the game or obliterate on Monsoon.",
+        "ACHIEVEMENT_CHEFCLEARGAMEMONSOON_DESCRIPTION": "As CHEF, beat the game or obliterate on PISSING",
 
         "ACHIEVEMENT_FALSESONLASERMULTIKILL_NAME": "False Son: Stare Them Down",
         "ACHIEVEMENT_FALSESONLASERMULTIKILL_DESCRIPTION": "As False Son, kill 15 enemies with one activation of Laser of the Father.",
@@ -515,13 +515,13 @@
         "ACHIEVEMENT_FALSESONGROWTHCHALLENGE_NAME": "False Son: Protein Heavy Diet",
         "ACHIEVEMENT_FALSESONGROWTHCHALLENGE_DESCRIPTION": "As False Son, gain 40 additional Lunar Spikes through Growth.",
 
-        "ACHIEVEMENT_SEEKERAIRMULTIHIT_NAME": "Seeker: Airborne Souls",
-        "ACHIEVEMENT_SEEKERAIRMULTIHIT_DESCRIPTION": "As Seeker, hit three or more airborne enemies with a single use of the exploding third hit of Spirit Punch.",
+        "ACHIEVEMENT_SEEKERAIRMULTIHIT_NAME": "artificer 2: Airborne Souls",
+        "ACHIEVEMENT_SEEKERAIRMULTIHIT_DESCRIPTION": "As artificer 2, hit three or more airborne enemies with a single use of the exploding third hit of Spirit Punch.",
 
-        "ACHIEVEMENT_SEEKERPERFECT20MEDITATION_NAME": "Seeker: Clear Mind",
-        "ACHIEVEMENT_SEEKERPERFECT20MEDITATION_DESCRIPTION": "As Seeker, meditate 20 times consecutively without missing an input in a single run.",
+        "ACHIEVEMENT_SEEKERPERFECT20MEDITATION_NAME": "artificer 2: Clear Mind",
+        "ACHIEVEMENT_SEEKERPERFECT20MEDITATION_DESCRIPTION": "As artificer 2, meditate 20 times consecutively without missing an input in a single run.",
 
-        "ACHIEVEMENT_NUKESOJOURN_NAME": "Seeker: Scorched Earth",
+        "ACHIEVEMENT_NUKESOJOURN_NAME": "artificer 2: Scorched Earth",
         "ACHIEVEMENT_NUKESOJOURN_DESCRIPTION": "Deal 500,000% damage with one use of Sojourn's explosion.",
 
         "COST_SOULCOST_FORMAT": "{0}% hp bar",
