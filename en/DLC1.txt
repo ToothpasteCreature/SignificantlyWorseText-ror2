@@ -1,0 +1,6 @@
+﻿{
+	"strings": {
+		"DLC1_NAME": "Survivors of the purple curse",
+		"DLC1_DESCRIPTION": "Adds content from the 'Survivors of the purple curse' expansion to the game."
+	}
+}

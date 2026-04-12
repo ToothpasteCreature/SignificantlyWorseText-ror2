@@ -1,0 +1,438 @@
+{
+	"strings": {
+		"SURVIVOR_POD_HATCH_OPEN_CONTEXT": "start killing people",
+		"SURVIVOR_POD_OPEN_PANEL_CONTEXT": "get battery and blow up instantly",
+		"TELEPORTER_NAME": "Teleporter",
+		"TELEPORTER_BEGIN_CONTEXT": "kill more people",
+		"TELEPORTER_END_CONTEXT": "leave",
+
+		"BARREL1_NAME": "Barrel",
+		"BARREL1_CONTEXT": "Open barrel",
+		"BARREL1_DESCRIPTION": "gives survivors like 4 cents and a paperclip",
+		"BARREL_LORE": "ADD LORE HERE",
+
+		"DUMMYINTERACTION_NAME": "???",
+		"DUMMYINTERACTION_CONTEXT": "???",
+
+		"INSPECT_INFO_MISSING_TITLE": "????",
+		"INSPECT_INFO_MISSING_DESCRIPTION": "????",
+		"INSPECT_INFO_MISSING_LORE": "????",
+
+		"INSPECT_INFO_UNKNOWN_TITLE": "????",
+		"INSPECT_INFO_UNKNOWN_DESCRIPTION": "????",
+		"INSPECT_INFO_UNKNOWN_LORE": "????",
+
+		"SHOP_ITEM_MYSTERY_TITLE": "Mystery Item",
+		"SHOP_ITEM_MYSTERY_DESCRIPTION": "Gives players a random item.",
+		"SHOP_ITEM_MYSTERY_LORE": "LORE HERE",
+
+		"LOCKBOX_NAME": "rusty cockbox",
+		"LOCKBOX_CONTEXT": "open rusty cockbox",
+		"LOCKBOX_DESCRIPTION": "Only spawns when a survivor holds the common item \"Rusty Key\" and will always contain an uncommon or legendary item.",
+		"LOCKBOX_LORE": "LORE HERE",
+
+		"LOCKBOXVOID_NAME": "purple gobstopper",
+		"LOCKBOXVOID_CONTEXT": "free void item!!!",
+		"LOCKBOXVOID_DESCRIPTION": "Only spawns when a survivor holds the void item \"Encrusted Key\" and will drop a Void Potential item.",
+		"LOCKBOXVOID_LORE": "LORE HERE",
+
+		"EQUIPMENTBARREL_NAME": "barrel but instead of money it gives you garbage",
+		"EQUIPMENTBARREL_CONTEXT": "Open barrel",
+		"EQUPMENTBARREL_DESCRIPTION": "Costs gold to open and will always contain an equipment item.",
+		"EQUPMENTBARREL_LORE": "LORE HERE",
+
+		"OLDCHEST_NAME": "Old Chest",
+		"OLDCHEST_CONTEXT": "",
+		"OLDCHEST_DESCRIPTION": "TBD",
+		"OLDCHEST_LORE": "LORE HERE",
+
+		"CHEST1_NAME": "lootbox",
+		"CHEST1_CONTEXT": "spend $5.99 on lootbox",
+		"CHEST1_DESCRIPTION": "Costs gold to open and has a chance to contain either a common, uncommon, or legendary item.",
+		"CHEST1_LORE": "LORE HERE",
+
+		"CHEST1_STEALTHED_NAME": "sneaky lootbox",
+		"CHEST1_STEALTHED_CONTEXT": "get free shit!!",
+		"CHEST1_STEALTHED_DESCRIPTION": "An invisible chest that does not have to be purchased. The Cloaked Chest has a chance to contain either a common, uncommon, or legendary item.",
+		"CHEST1_STEALTHED_LORE": "LORE HERE",
+
+		"CHEST2_NAME": "rare lootbox",
+		"CHEST2_CONTEXT": "spend $10.99 on large lootbox",
+		"CHEST2_DESCRIPTION": "Pricier Chest than the Small Chest that contains an item of at least uncommon rarity and has a higher chance to hold a legendary item.",
+		"CHEST2_LORE": "LORE HERE",
+
+		"GOLDCHEST_NAME": "epic lootbox",
+		"GOLDCHEST_CONTEXT": "spend $35.99 on epic lootbox",
+		"GOLDCHEST_DESCRIPTION": "Expensive chest guaranteed to hold a legendary item. Natural generation is extremely rare.",
+		"GOLDCHEST_LORE": "LORE HERE",
+
+		"TIMEDCHEST_NAME": "Timed Security Chest",
+		"TIMEDCHEST_CONTEXT": "Open Timed Security Chest",
+		"TIMEDCHEST_DESCRIPTION": "A timed chest that will only open if a survivor reaches it before the 10 minute mark.",
+		"TIMEDCHEST_LORE": "LORE HERE",
+
+		"RADIOTOWER_NAME": "lore machine",
+		"RADIOTOWER_CONTEXT": "spend money on lore so this garbage never takes up spawn credits here ever again",
+		"RADIOTOWER_DESCRIPTION": "Scans the entire stage on activation and adds the environmental data of the scanned stage to the survivor's Logbook.",
+		"RADIOTOWER_LORE": "LORE HERE",
+
+		"MULTISHOP_TERMINAL_NAME": "Multishop Terminal",
+		"MULTISHOP_TERMINAL_CONTEXT": "Open terminal",
+
+		"FAN_NAME": "bounce pad",
+		"FAN_CONTEXT": "go boing",
+		"FAN_DESCRIPTION": "Turns into a launch pad after activation to launch survivors to other locations on the stage.",
+		"FAN_LORE": "LORE HERE",
+
+		"DUPLICATOR_NAME": "printer",
+		"DUPLICATOR_CONTEXT": "print 50 of this thing",
+		"DUPLICATOR_DESCRIPTION": "Allows survivors to print a common or uncommon item if they sacrifice a scrap or a random item matching the displayed item's rarity. The 3D printer will always take scrap before a random item.",
+		"DUPLICATOR_LORE": "LORE HERE",
+
+		"DUPLICATOR_MILITARY_NAME": "abysmal dogshit rare ass printer",
+		"DUPLICATOR_MILITARY_CONTEXT": "waste a red item",
+		"DUPLICATOR_MILITARY_DESCRIPTION": "The rarest printer that allows survivors to print legendary items if they sacrifice a legendary scrap or a random legendary item. The 3D printer will always take scrap before a random item.",
+		"DUPLICATOR_MILITARY_LORE": "LORE HERE",
+
+		"DUPLICATOR_WILD_NAME": "oh boy genesis loop my favorite!!",
+		"DUPLICATOR_WILD_CONTEXT": "get good yellows",
+		"DUPLICATOR_WILD_DESCRIPTION": "Allows survivors to print a boss item if they sacrifice a boss scrap or a random boss item. The 3D printer will always take scrap before a random item. ",
+		"DUPLICATOR_WILD_LORE": "LORE HERE",
+
+		"CASINOCHEST_NAME": "adaptive lootbox",
+		"CASINOCHEST_CONTEXT": "spend $10.99 and inevitably pick the wrong thing on lootbox",
+		"CASINOCHEST_DESCRIPTION": "Costs gold to activate and will cycle through many items quickly. Interacting with the Adaptive Chest will drop the item currently displayed in the cycle.",
+		"CASINOCHEST_LORE": "LORE HERE",
+
+		"LUNAR_CHEST_NAME": "big flower",
+		"LUNAR_CHEST_CONTEXT": "kill flower",
+		"LUNAR_CHEST_DESCRIPTION": "Costs 1 Lunar coin and drops a random Lunar Item or Lunar Equipment.",
+		"LUNAR_CHEST_LORE": "LORE HERE",
+
+		"LUNAR_TERMINAL_NAME": "flower",
+		"LUNAR_TERMINAL_CONTEXT": "kill flower",
+		"LUNAR_TERMINAL_DESCRIPTION": "Offers 1 Lunar Item each in exchange for 2 Lunar Coins. Only Lunar Items that have already been unlocked will appear.",
+		"LUNAR_TERMINAL_LORE": "LORE HERE",
+
+		"LUNAR_REROLL_NAME": "d6",
+		"LUNAR_REROLL_CONTEXT": "reroll",
+		"LUNAR_REROLL_DESCRIPTION": "Allows survivors to reroll all the remaining Lunar Buds in the lunar shop.",
+		"LUNAR_REROLL_LORE": "LORE HERE",
+
+		"BAZAAR_UPGRADE_LUNAR_NAME": "Slab",
+		"BAZAAR_UPGRADE_LUNAR_CONTEXT": "Permanently upgrade Item Shop",
+
+		"BAZAAR_BLUEPRINT_NAME": "Strange Display",
+		"BAZAAR_BLUEPRINT_CONTEXT": "Permanently Unlock",
+
+		"BAZAAR_UPGRADE_DRONE_NAME": "Slab",
+		"BAZAAR_UPGRADE_DRONE_CONTEXT": "Permanently upgrade Drone Shop",
+
+		"BAZAAR_CAULDRON_NAME": "soup",
+		"BAZAAR_CAULDRON_CONTEXT": "glug glug glugl",
+		"BAZAAR_CAULDRON_DESCRIPTION": "Allows survivors to exchange multiple common items or scrap for a random uncommon or legendary item.",
+		"BAZAAR_CAULDRON_LORE": "LORE HERE",
+
+		"BAZAAR_SEER_DESCRIPTION": "Guarantees the next stage's environment is the environment displayed.",
+		"BAZAAR_SEER_LORE": "ADD LORE HERE",
+
+		"NEWT_STATUE_NAME": "Newt Altar",
+		"NEWT_STATUE_CONTEXT": "Donate to Newt Altar",
+		"NEWT_STATUE_DESCRIPTION": "Costs one Lunar Coin to activate and will spawn a blue portal after the Teleporter Event allowing the player to travel to the Bazaar Between Time.",
+		"NEWT_STATUE_LORE": "LORE HERE",
+
+		"MSOBELISK_NAME": "rock that makes you want to kill yourself",
+		"MSOBELISK_CONTEXT": "die",
+		"MSOBELISK_CONTEXT_CONFIRMATION": "die faster",
+
+		"CATEGORYCHEST_HEALING_NAME": "lootbox: green apple flavor",
+		"CATEGORYCHEST_HEALING_CONTEXT": "spend $5.99 on lootbox: green apple flavor",
+		"CATEGORYCHEST_HEALING_DESCRIPTION": "Costs gold to open and will contain either a common, uncommon or legendary healing item.",
+		"CATEGORYCHEST_HEALING_LORE": "LORE HERE",
+
+		"CATEGORYCHEST_DAMAGE_NAME": "lootbox: cherry flavor",
+		"CATEGORYCHEST_DAMAGE_CONTEXT": "spend $5.99 on lootbox: cherry flavor",
+		"CATEGORYCHEST_DAMAGE_DESCRIPTION": "Costs gold to open and will contain either a common, uncommon or legendary damage item.",
+		"CATEGORYCHEST_DAMAGE_LORE": "LORE HERE",
+
+		"CATEGORYCHEST_UTILITY_NAME": "lootbox: grape flavor",
+		"CATEGORYCHEST_UTILITY_CONTEXT": "spend $5.99 on lootbox: cherry flavor",
+		"CATEGORYCHEST_UTILITY_DESCRIPTION": "Costs gold to open and will contain either a common, uncommon or legendary utility item.",
+		"CATEGORYCHEST_UTILITY_LORE": "LORE HERE",
+
+		"SHRINE_HEALING_NAME": "useless spawn credit leech",
+		"SHRINE_HEALING_CONTEXT": "waste your money",
+		"SHRINE_HEALING_USE_MESSAGE_2P": "<style=cShrine>mm really big bungus aura.....</color>",
+		"SHRINE_HEALING_USE_MESSAGE": "<style=cShrine>{0} is sooo full of healing</color>",
+		"SHRINE_HEALING_DESCRIPTION": "generates some healing i guess",
+		"SHRINE_HEALING_LORE": "LORE HERE",
+
+		"SHRINE_BLOOD_NAME": "shrine of blood donation machine",
+		"SHRINE_BLOOD_CONTEXT": "hurt yourself for money",
+		"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine>you sold ur organs for {1} dollar</color>",
+		"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine>{0} sold their organs for {1} dollars</color>",
+		"SHRINE_BLOOD_DESCRIPTION": "gives you money for health",
+		"SHRINE_BLOOD_LORE": "LORE HERE",
+
+		"SHRINE_CHANCE_NAME": "shrine of GAMBLING",
+		"SHRINE_CHANCE_CONTEXT": "win!",
+		"SHRINE_CHANCE_SUCCESS_MESSAGE_2P": "<style=cShrine>wow you winned!!</color>",
+		"SHRINE_CHANCE_SUCCESS_MESSAGE": "<style=cShrine>wow {0} winned!!</color>",
+		"SHRINE_CHANCE_FAIL_MESSAGE_2P": "<style=cShrine>fucking loser lmao</color>",
+		"SHRINE_CHANCE_FAIL_MESSAGE": "<style=cShrine>{0} was given and deserves nothing</color>",
+		"SHRINE_CHANCE_DESCRIPTION": "play 5 times in a row and spend every cent of yours in exchange for fuck all",
+		"SHRINE_CHANCE_LORE": "LORE HERE",
+
+		"SHRINE_BOSS_NAME": "shrine of MORE ITEM",
+		"SHRINE_BOSS_CONTEXT": "double teleporter rewards for absolutely free",
+		"SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>oh yeah also you have to fight more bosses now fuck you</color>",
+		"SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0} says you're fighting more bosses ig lol</color>",
+		"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>die</style>",
+		"SHRINE_BOSS_END_TRIAL": "<style=cShrine>wow you won enjoy your boss pool slop</style>",
+		"SHRINE_BOSS_DESCRIPTION": "get more item!! (and fight more boss)",
+		"SHRINE_BOSS_LORE": "LORE HERE",
+
+		"VOID_SUPPRESSOR_NAME": "Void Eradicator",
+		"VOID_SUPPRESSOR_CONTEXT": "Eradicate items",
+		"VOID_SUPPRESSOR_DESCRIPTION": "TBD",
+		"VOID_SUPPRESSOR_USE_MESSAGE_2P": "<style=cShrine>You eradicated {1} from the universe.",
+		"VOID_SUPPRESSOR_USE_MESSAGE": "<style=cShrine>{0} eradicated {1} from the universe.",
+		"VOID_SUPPRESSOR_FAKE_NAME": "Newt Altar?",
+		"VOID_SUPPRESSOR_FAKE_CONTEXT": "Donate to Newt Altar?",
+		"VOID_SUPPRESSOR_FAKE_DESCRIPTION": "Costs one Lunar Coin to activate and will spawn a blue portal after the Teleporter Event allowing the player to travel to the Bazaar Between Time.",
+
+
+		"SHRINE_RESTACK_NAME": "shrine of crippling gambling disorder",
+		"SHRINE_RESTACK_CONTEXT": "get 20 bison steak and 8 bandolier",
+		"SHRINE_RESTACK_USE_MESSAGE_2P": "<style=cShrine>your build is now epic(ruined irreparably)</color>",
+		"SHRINE_RESTACK_USE_MESSAGE": "<style=cShrine>{0}'s build is fucked up dawg</color>",
+		"SHRINE_RESTACK_DESCRIPTION": "When activated by a survivor the Shrine of Order randomly selects an item from each tier of rarity and turns all items of the same rarity into the selected item of that tier.",
+		"SHRINE_RESTACK_LORE": "LORE HERE",
+
+		"SHRINE_GOLDSHORES_NAME": "Altar of dollar",
+		"SHRINE_GOLDSHORES_CONTEXT": "take out a loan for Altar of dollar",
+		"SHRINE_GOLDSHORES_DESCRIPTION": "A rare and expensive shrine that will spawn a Gold Portal once the Teleporter Event has finished, allowing the player to travel to the Gilded Coast.",
+		"SHRINE_GOLDSHORES_LORE": "LORE HERE",
+
+		"SHRINE_COMBAT_NAME": "shrine of wombat",
+		"SHRINE_COMBAT_CONTEXT": "hrrrng i need more enemies",
+		"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>Woe, {1} be upon ye</color>",
+		"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} has summoned {1}s to fight.</color>",
+		"SHRINE_COMBAT_DESCRIPTION": "spawns enemies for your broke ass",
+		"SHRINE_COMBAT_LORE": "LORE HERE",
+
+		"SHRINE_PROTECTION_NAME": "Shrine of Warding",
+		"SHRINE_PROTECTION_CONTEXT": "Pray to Shrine of Warding",
+		"SHRINE_PROTECTION_USE_MESSAGE_2P": "<style=cShrine>You feel safe.</color>",
+		"SHRINE_PROTECTION_USE_MESSAGE": "<style=cShrine>{0} feels safe.</color>",
+
+		"SHRINE_CLEANSE_NAME": "weird tire",
+		"SHRINE_CLEANSE_CONTEXT": "donate to weird tire",
+		"SHRINE_CLEANSE_USE_MESSAGE_2P": "<style=cShrine>GET THIS {1} OFF ME</color>",
+		"SHRINE_CLEANSE_USE_MESSAGE": "<style=cShrine>{0} actually hates the {1} yall spent 50 lunar coins rerolling for sorry</color>",
+		"SHRINE_CLEANSE_DESCRIPTION": "Allows survivors to sacrifice a random Lunar item or Lunar Equipment in exchange for a Pearl item.",
+		"SHRINE_CLEANSE_LORE": "LORE HERE",
+
+		"GOLDTOTEM_NAME": "gold broccoli",
+		"GOLDTOTEM_CONTEXT": "fix gold broccoli",
+		"GOLDTOTEM_DESCRIPTION": "summons really big gold lady",
+		"GOLDTOTEM_LORE": "LORE HERE",
+
+		"ARENA_ADD_MONSTER": "<style=cWorldEvent>[WARNING] we gotta kill {1}s now</style>",
+		"ARENA_ADD_ITEM": "<style=cWorldEvent>[WARNING] all your enemies get {1} glhf</style>",
+		"ARENA_END": "<style=cWorldEvent>The Cell stabilizes.</style>",
+		"NULL_WARD_NAME": "Cell Vent",
+		"NULL_WARD_CONTEXT": "Open Cell Vent",
+
+		"YOUNG_TELEPORTER_NAME": "Teleporter Sapling",
+		"YOUNG_TELEPORTER_CONTEXT": "Activate Teleporter Sapling",
+
+		"MOON_BATTERY_SOUL_NAME": "pillar of swaws",
+		"MOON_BATTERY_SOUL_CONTEXT": "Activate swaws",
+
+		"MOON_BATTERY_BLOOD_NAME": "pillar of boob",
+		"MOON_BATTERY_BLOOD_CONTEXT": "Activate boob",
+
+		"MOON_BATTERY_DESIGN_NAME": "pillar of really good game design",
+		"MOON_BATTERY_DESIGN_CONTEXT": "Activate really good game design",
+
+		"MOON_BATTERY_MASS_NAME": "pillar of ass",
+		"MOON_BATTERY_MASS_CONTEXT": "Activate ass",
+
+		"VENDING_MACHINE_NAME": "SODA!!!!!!",
+		"VENDING_MACHINE_CONTEXT": "drink 10x your recommended daily sugar intake ",
+
+		"LOCKEDMAGE_NAME": "ough.... is that... artaficer",
+		"LOCKEDMAGE_CONTEXT": "buy big boob mage lady",
+		"LOCKEDMADE_DESCRIPTION": "A being trapped in time. They can be freed, for a price.",
+		"LOCKEDMAGE_LORE": "LORE HERE",
+
+		"LOCKEDTREEBOT_NAME": "Broken Robot",
+		"LOCKEDTREEBOT_CONTEXT": "Repair",
+
+		"SCAVBACKPACK_NAME": "grade schooler backpack",
+		"SCAVBACKPACK_CONTEXT": "loot grade schooler backpack",
+		"SCAVBACKPACK_DESCRIPTION": "Contains 10 items with the chance to be either a common, uncommon, or legendary item.",
+		"SCAVBACKPACK_LORE": "LORE HERE",
+
+
+		"DRONE_GUNNER_INTERACTABLE_NAME": "Broken Gunner Drone",
+		"DRONE_GUNNER_CONTEXT": "Repair Gunner Drone",
+		"DRONE_GUNNER_DESCRIPTION": "A companion bought with gold that will follow the survivor at a close distance shooting nearby targets.",
+		"DRONE_GUNNER_LORE": "LORE HERE",
+
+		"DRONE_MEGA_INTERACTABLE_NAME": "Broken TC-280",
+		"DRONE_MEGA_CONTEXT": "Repair ???",
+		"DRONE_MEGA_DESCRIPTION": "A companion bought with gold that will follow the survivor at a close distance shooting or launching missiles at nearby targets. It is more durable, deals more damage, and is more expensive than both the Gunner and Missile drones.",
+		"DRONE_MEGA_LORE": "LORE HERE",
+
+		"DRONE_HEALING_INTERACTABLE_NAME": "Broken Healing Drone",
+		"DRONE_HEALING_CONTEXT": "Repair Healing Drone",
+		"DRONE_HEALING_DESCRIPTION": "A companion bought with gold that will follow the survivor at a close distance, healing them and close allies. Can only heal one target at a time.",
+		"DRONE_HEALING_LORE": "LORE HERE",
+
+		"DRONE_MISSILE_INTERACTABLE_NAME": "Broken Missile Drone",
+		"DRONE_MISSILE_CONTEXT": "Repair Missile Drone",
+		"DRONE_MISSILE_DESCRIPTION": "A companion bought with gold that will follow the survivor at a close distance launching missiles at nearby targets.",
+		"DRONE_MISSILE_LORE": "LORE HERE",
+
+		"EQUIPMENTDRONE_INTERACTABLE_NAME": "Broken Equipment Drone",
+		"EQUIPMENTDRONE_CONTEXT": "Repair Equipment Drone",
+		"EQUIPMENTDRONE_DESCRIPTION": "A companion that requires the player's current equipment to function and will follow the survivor at a close distance and uses the equipment item on nearby enemies.",
+		"EQUIPMENTDRONE_LORE": "LORE HERE",
+
+		"FLAMEDRONE_INTERACTABLE_NAME": "Broken Incinerator Drone",
+		"FLAMEDRONE_CONTEXT": "Repair Incinerator Drone",
+		"FLAMEDRONE_DESCRIPTION": "A companion bought with gold that will follow the survivor at a close distance and moves towards nearby targets and burns them.",
+		"FLAMEDRONE_LORE": "LORE HERE",
+
+		"EMERGENCYDRONE_INTERACTABLE_NAME": "Broken Emergency Drone",
+		"EMERGENCYDRONE_CONTEXT": "Repair Emergency Drone",
+		"EMERGENCYDRONE_DESCRIPTION": "A companion bought with gold that will follow the survivor at a close distance, healing them and close allies. Can heal multiple targets at once. It is more durable, can heal more rapidly and is more expensive than the healing drone.",
+		"EMERGENCYDRONE_LORE": "LORE HERE",
+
+		"TURRET1_INTERACTABLE_NAME": "Broken Gunner Turret",
+		"TURRET1_CONTEXT": "Repair Gunner Turret",
+		"TURRET1_DESCRIPTION": "A stationary companion bought with gold that shoots at nearby targets. It is more powerful than the Gunner drone.",
+		"TURRET1_LORE": "LORE HERE",
+
+		"PORTAL_SHOP_NAME": "blortal",
+		"PORTAL_SHOP_CONTEXT": "enter blortal",
+		"PORTAL_GOLDSHORES_NAME": "gortal",
+		"PORTAL_GOLDSHORES_CONTEXT": "enter gortal",
+		"PORTAL_MYSTERYSPACE_NAME": "celortal",
+		"PORTAL_MYSTERYSPACE_CONTEXT": "enter celortal",
+		"PORTAL_ARENA_NAME": "xehanortal",
+		"PORTAL_ARENA_CONTEXT": "xehanortal",
+		"PORTAL_ARTIFACTWORLD_NAME": "Artifact Portal",
+		"PORTAL_ARTIFACTWORLD_CONTEXT": "Enter Artifact Portal",
+		"PORTAL_GENERIC_CONTEXT": "enter portal 2 for the xbox",
+		"ZIPLINE_ENTER_CONTEXT": "Enter Quantum Tunnel",
+		"ZIPLINE_EXIT_CONTEXT": "Exit Quantum Tunnel",
+
+		"PICKUP_LUNAR_COIN": "glumbocoin",
+		"LUNAR_COIN_PICKUP_CONTEXT": "invest in crypto",
+		"PICKUP_LUNAR_COIN_DESCRIPTION": "A <sprite name=\"LunarCoin\" tint=1>Lunar Coin. Radiates a mysterious energy. Used as currency.",
+
+		"COST_NONE_FORMAT": "",
+		"COST_MONEY_FORMAT": "${0}",
+		"COST_PERCENTHEALTH_FORMAT": "{0}% HP",
+		"COST_LUNARCOIN_FORMAT": " <sprite name=\"LunarCoin\" tint=1>{0}",
+		"COST_ITEM_FORMAT": "{0} item(s)",
+		"COST_LUNAR_FORMAT": "{0} Lunar",
+		"COST_EQUIPMENT_FORMAT": "{0} active item",
+		"COST_VOLATILEBATTERY_FORMAT": "{0} Fuel Array",
+		"COST_ARTIFACTSHELLKILLERITEM_FORMAT": "{0} Artifact keynis",
+		"COST_TREASURECACHEITEM_FORMAT": "{0} Rusted keynis",
+		"COST_TREASURECACHEVOIDITEM_FORMAT": "{0} Encrusted keynis",
+		"FIREBALL_VEHICLE_EXIT_CONTEXT": "blow up",
+
+		"ARTIFACT_TRIAL_CONTROLLER_NAME": "Unknown Artifact",
+		"ARTIFACT_TRIAL_CONTROLLER_CONTEXT": "Activate Unknown Artifact...?",
+
+		"PORTAL_DIALER_NAME": "Compound Generator",
+		"PORTAL_DIALER_CONTEXT": "Cycle Compound",
+
+		"PORTAL_DIALER_LAPTOP_NAME": "Laptop",
+		"PORTAL_DIALER_LAPTOP_CONTEXT": "Submit Formula",
+		"PORTAL_DIALER_LAPTOP_DESCRIPTION": "Submit the entered formula...?",
+
+		"LUNAR_TELEPORTER_NAME": "Primordial Teleporter",
+		"LUNAR_TELEPORTER_SHIFT": "Shift Destination",
+		"LUNAR_TELEPORTER_BEGIN_CONTEXT": "Activate Primordial Teleporter..?",
+		"LUNAR_TELEPORTER_END_CONTEXT": "Enter Primordial Teleporter",
+
+		"SCRAPPER_NAME": "crapper",
+		"SCRAPPER_CONTEXT": "crap items",
+		"SCRAPPER_POPUP_TEXT": "<b>Scrapper V1-4</b>\n<i><style=cSub><size=75%>Turn anything into recyclable scrap!</size></style></i>",
+		"SCRAPPER_DESCRIPTION": "Allows survivors to sacrifice items in exchange for pieces of scrap the same rarity as the sacrificed item.",
+		"SCRAPPER_LORE": "LORE HERE",
+
+		"DROPSHIP_NAME": "UES Dropship",
+		"DROPSHIP_CONTEXT": "Escape",
+
+		"MOON_ELEVATOR_NAME": "Platform",
+		"MOON_ELEVATOR_CONTEXT": "Activate platform",
+
+		"VOIDLOCKBOX_NAME": "Encrusted Cache",
+		"VOIDLOCKBOX_CONTEXT": "Open Encrusted Cache",
+		"VOIDLOCKBOX_DESCRIPTION": "Only spawns when a survivor holds the purple item \"encrusted keynis\" and will drop a Void Potential item.",
+		"VOIDLOCKBOX_LORE": "LORE HERE",
+
+		"VOID_CHEST_NAME": "purple curse Cradle",
+		"VOID_CHEST_CONTEXT": "Open purple curse Cradle",
+		"VOID_CHEST_DESCRIPTION": "Consumes 50% of the survivor's HP and will spawn 1 purple item and release up to 4 Void Infestors.",
+		"VOID_CHEST_LORE": "LORE HERE",
+
+		"VOID_TRIPLE_NAME": "puprle curse potential",
+		"VOID_TRIPLE_CONTEXT": "Release prple curse potentia l",
+		"VOID_TRIPLE_DESCRIPTION": "Consumes 50% of the survivor's HP and will generate a purple Potential Orb.",
+		"VOID_TRIPLE_LORE": "LORE HERE",
+
+		"OPTION_PICKUP_INTERACTION_PROMPT": "Collapse purple curse Potential",
+		"OPTION_PICKUP_UNKNOWN_NAME": "purple curse Potential",
+		"OPTION_PICKUP_HEADER": "there's options",
+
+		"PICKUP_VOID_COIN": "purple curse Marker",
+		"VOID_COIN_PICKUP_CONTEXT": "Pick up purple curse Marker",
+		"COST_VOIDCOIN_FORMAT": " <sprite name=\"VoidCoin\" tint=1>{0}",
+
+		"PORTAL_VOID_NAME": "purptal",
+		"PORTAL_VOID_CONTEXT": "Enter purptal",
+
+		"VOIDCOINBARREL_NAME": "purpl lollipop",
+		"VOIDCOINBARREL_CONTEXT": "Crack this fucker open!",
+
+		"FROG_NAME": "frogy",
+		"FROG_CONTEXT": "Pet the frogy",
+
+		"DEEPVOIDBATTERY_NAME": "simpsons purple curse signal",
+		"DEEPVOIDBATTERY_CONTEXT": "Activate simpsons purple curse signal",
+
+		"PORTAL_DEEPVOID_NAME": "simpsons purptal",
+		"PORTAL_DEEPVOID_CONTEXT": "Enter simpsons purptal",
+
+		"PORTAL_VOIDOUTRO_NAME": "Portal?",
+		"PORTAL_VOIDOUTRO_CONTEXT": "Leave",
+
+		"VOIDCAMPCENTER_NAME": "pruple Seed",
+		"VOIDCAMPCENTER_CONTEXT": "Deactivate",
+
+		"VOID_SURVIVOR_POD_HATCH_OPEN_CONTEXT": "Emerge",
+
+		"CATEGORYCHEST2_HEALING_NAME": "epic lootbox: green apple flavor",
+		"CATEGORYCHEST2_HEALING_CONTEXT": "spend $35.99 on epic lootbox: green apple flavor",
+		"CATEGORYCHEST2_HEALING_DESCRIPTION": "Pricier, rarer Chest than the Small Healing Chest. Contains an item of at least uncommon rarity and has a higher chance to hold a legendary healing item.",
+		"CATEGORYCHEST2_HEALING_LORE": "LORE HERE",
+
+		"CATEGORYCHEST2_DAMAGE_NAME": "epic lootbox: cherry flavor",
+		"CATEGORYCHEST2_DAMAGE_CONTEXT": "spend $35.99 on epic lootbox: cherry flavor",
+		"CATEGORYCHEST2_DAMAGE_DESCRIPTION": "Pricier, rarer Chest than the Small Damage Chest. Contains an item of at least uncommon rarity and has a higher chance to hold a legendary damage item.",
+		"CATEGORYCHEST2_DAMAGE_LORE": "LORE HERE",
+
+		"CATEGORYCHEST2_UTILITY_NAME": "epic lootbox: grape flavor",
+		"CATEGORYCHEST2_UTILITY_CONTEXT": "spend $35.99 on epic lootbox: grape flavor",
+		"CATEGORYCHEST2_UTILITY_DESCRIPTION": "Pricier, rarer Chest than the Small Utility Chest. Contains an item of at least uncommon rarity and has a higher chance to hold a legendary utility item.",
+		"CATEGORYCHEST2_UTILITY_LORE": "LORE HERE"
+	}
+}

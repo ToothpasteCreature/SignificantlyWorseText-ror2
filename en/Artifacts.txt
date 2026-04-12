@@ -1,0 +1,69 @@
+{
+	"strings":
+	{
+		"ARTIFACT_GLASS_NAME": "Artifact of ass",
+		"ARTIFACT_GLASS_DESCRIPTION" : "Allies deal 500% damage, but have 10% health.",
+
+		"ARTIFACT_BOMB_NAME" : "Artifact of Spite",
+		"ARTIFACT_BOMB_DESCRIPTION" : "Enemies drop multiple exploding bombs on death.",
+
+		"ARTIFACT_ENIGMA_NAME" : "Artifact of rainbow run",
+		"ARTIFACT_ENIGMA_DESCRIPTION" : "Spawn with a random equipment that changes every time it's activated.",
+
+		"ARTIFACT_SACRIFICE_NAME" : "Artifact of grinding",
+		"ARTIFACT_SACRIFICE_DESCRIPTION" : "monsters drop items on death, but chests are... lost media...??",
+
+		"ARTIFACT_SPIRIT_NAME" : "Artifact of Spirit",
+		"ARTIFACT_SPIRIT_DESCRIPTION" : "All characters move faster at lower health.",
+
+		"ARTIFACT_RANDOMSURVIVORONRESPAWN_NAME": "Artifact of Metamorphosis",
+		"ARTIFACT_RANDOMSURVIVORONRESPAWN_DESCRIPTION": "Players always spawn as a random survivor.",
+		
+		"ARTIFACT_WEAKASSKNEES_NAME": "Artifact of ayo the pizza here",
+		"ARTIFACT_WEAKASSKNEES_DESCRIPTION": "fall damage is doubled and lethal",
+		
+		"ARTIFACT_WISPONDEATH_NAME": "Artifact of Soul",
+		"ARTIFACT_WISPONDEATH_DESCRIPTION": "Wisps emerge from defeated monsters.",
+		
+		"ARTIFACT_ELITEONLY_NAME": "Artifact of i'm rebirthing with sonorous whispers",
+		"ARTIFACT_ELITEONLY_DESCRIPTION": "enemies can only spawn as elites",
+		
+		"ARTIFACT_SINGLEMONSTERTYPE_NAME": "Artifact of Kin",
+		"ARTIFACT_SINGLEMONSTERTYPE_DESCRIPTION": "Monsters will be of only one type per stage.",
+		
+		"ARTIFACT_MIXENEMY_NAME": "Artifact of Dissonance",
+		"ARTIFACT_MIXENEMY_DESCRIPTION": "Monsters can appear outside their usual environments.",
+		
+		"ARTIFACT_SHADOWCLONE_NAME": "Artifact of Vengeance",
+		"ARTIFACT_SHADOWCLONE_DESCRIPTION": "Your relentless doppelganger will invade every 10 minutes.",
+		
+		"ARTIFACT_TEAMDEATH_NAME": "Artifact of KILL EVERYONE",
+		"ARTIFACT_TEAMDEATH_DESCRIPTION": "everybody dies if onebody dies",
+		"ARTIFACT_TEAMDEATH_DEATHMESSAGE": "<style=cDeath><b>{0} is getting banned from the group chat for this</b></style>",
+		"ARTIFACT_TEAMDEATH_DEATHMESSAGE_2P": "<style=cDeath><b>look at what you fucking did</b></style>",
+		
+		"ARTIFACT_SWARMS_NAME": "Artifact of 5 billion blind pests and brass contraptions",
+		"ARTIFACT_SWARMS_DESCRIPTION": "monster spawns are doubled, but monster hp is halved",
+		
+		"ARTIFACT_COMMAND_NAME": "Artifact of creative mode",
+		"ARTIFACT_COMMAND_DESCRIPTION": "pick items and instantly win the run",
+		"ARTIFACT_COMMAND_CUBE_INTERACTION_PROMPT": "Open",
+		"ARTIFACT_COMMAND_INTERACTION_HEADER" : "''roguelike? what's that?''",
+		"ARTIFACT_COMMAND_CUBE_WHITE_NAME" : "white people",
+		"ARTIFACT_COMMAND_CUBE_GREEN_NAME" : "green people",
+		"ARTIFACT_COMMAND_CUBE_RED_NAME" : "red people",
+		"ARTIFACT_COMMAND_CUBE_YELLOW_NAME" : "im not saying the one for yellow items",
+		"ARTIFACT_COMMAND_CUBE_ORANGE_NAME" : "orange people",
+		"ARTIFACT_COMMAND_CUBE_BLUE_NAME" : "blue people",
+		"ARTIFACT_COMMAND_CUBE_UNKNOWN_NAME" : "unknown people",
+
+		"ARTIFACT_MONSTERTEAMGAINSITEMS_NAME": "Artifact of make the game needlessly more annoying",
+		"ARTIFACT_MONSTERTEAMGAINSITEMS_DESCRIPTION": "Monsters gain items between stages.",
+
+		"ARTIFACT_FRIENDLYFIRE_NAME": "Artifact of helldivers",
+		"ARTIFACT_FRIENDLYFIRE_DESCRIPTION": "everyone can kill everyone",
+
+		"ARTIFACT_NONE_NAME" : "Disable Artifact",
+		"ARTIFACT_NONE_DESCRIPTION" : "Disables the selected Artifact."
+	}
+}

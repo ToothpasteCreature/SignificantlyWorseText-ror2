@@ -1,0 +1,17 @@
+{
+	"strings":
+	{
+	"DIFFICULTY_BAR_0": "raining semen",
+	"DIFFICULTY_BAR_1": "timeline: what if it rained semen?",
+	"DIFFICULTY_BAR_2": "0 sec: raining semen",
+	"DIFFICULTY_BAR_3": "30 min: chlorine smell",
+	"DIFFICULTY_BAR_4": "7 hr: people vomit",
+	"DIFFICULTY_BAR_5": "???: accidental pregnancy",
+	"DIFFICULTY_BAR_6": "10 hr: insects everywhere",
+	"DIFFICULTY_BAR_7": "16 hr: semen beaches",
+	"DIFFICULTY_BAR_8": "18 hr: 21^10 sperms released",
+	"DIFFICULTY_BAR_9": "this joke blows and i hate it and",
+	"STAGE_COUNT_FORMAT" : "<style=cSub>stage</style> {0}",
+	"AMBIENT_LEVEL_DISPLAY_FORMAT" : "<style=cSub>lv </style> {0}"
+	}
+}
