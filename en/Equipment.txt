@@ -138,7 +138,7 @@
 	"EQUIPMENT_CLEANSE_LORE" : "Order: Blast Shower\r\nTracking Number: 152*****\r\nEstimated Delivery: 06/19/2056\r\nShipping Method: Standard\r\nShipping Address: Frontier Gate, Outer Edge Zone\r\nShipping Details:\r\n\r\nOuter Edge thanks you for your rewards redemption! It takes a real explorer to make their living on the frontier. As you undoubtedly know, REAL exploring is REAL messy. This portable unit will equip you with the modern convenience of taking a shower anywhere at any time!\r\n\r\nDisclaimer: Wear your protective suit while cleansing. Do not use product directly on skin. Blast Shower is only rated for B-class toxins and C-class foreign organisms. This company does not accept any responsibility for incidents as a result of an incomplete cleansing.\r\n",
 
 	"EQUIPMENT_FIREBALLDASH_NAME" : "huevo",
-	"EQUIPMENT_FIREBALLDASH_PICKUP" : "turn into fireball and EXPLODE",
+	"EQUIPMENT_FIREBALLDASH_PICKUP" : "blow up",
 	"EQUIPMENT_FIREBALLDASH_DESC" : "Turn into a <style=cIsDamage>draconic fireball</style> for <style=cIsDamage>5</style> seconds. Deal <style=cIsDamage>500% damage</style> on impact. Detonates at the end for <style=cIsDamage>800% damage</style>.",
 	"EQUIPMENT_FIREBALLDASH_LORE": "Order: Europan Great Dragon Egg\r\nTracking Number: 00****************\r\nEstimated Delivery: 10\/04\/2056\r\nShipping Method:  Biological \/ Fragile\r\nShipping Address: Xenobiology Wildlife Reserve, Titan\r\nShipping Details: \r\n\r\nMake sure to keep this thing nice and hot while it incubates. I know it may seem plenty hot already, but Great Dragons are creatures of flame \u2013 they live the stuff, breath the stuff. Oh, and please send me pictures of the little guy once it hatches. Great Dragons are always so cute when they first hatch.",
 
