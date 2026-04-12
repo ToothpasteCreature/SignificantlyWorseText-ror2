@@ -3,8 +3,8 @@
 		"ACHIEVEMENT_UNLOCKED_MESSAGE": "<color=#ccd3e0>{0} achieved <color=#BDE151>{1}</color></color>",
 		"ACHIEVEMENT_UNLOCKED_MESSAGE_2P": "<color=#ccd3e0>You achieved <color=#BDE151>{1}</color></color>",
 
-		"ACHIEVEMENT_LOGCOLLECTOR_NAME": "bhuuurp im smo full of enemy logs",
-		"ACHIEVEMENT_LOGCOLLECTOR_DESCRIPTION": "Collect 10 Monster or Environment Logs.",
+		"ACHIEVEMENT_LOGCOLLECTOR_NAME": "bhuuurp im smo full of logs",
+		"ACHIEVEMENT_LOGCOLLECTOR_DESCRIPTION": "get 10 Monster or environment logs",
 
 		"ACHIEVEMENT_ATTACKSPEED_NAME": "heroin addict",
 		"ACHIEVEMENT_ATTACKSPEED_DESCRIPTION": "reach +200% attack speed.",
@@ -16,19 +16,19 @@
 		"ACHIEVEMENT_HARDHITTER_DESCRIPTION": "deal 5000 damage in one hit",
 
 		"ACHIEVEMENT_CARRYLUNARITEMS_NAME": "''yeah my favorite lunar item is GotD''",
-		"ACHIEVEMENT_CARRYLUNARITEMS_DESCRIPTION": "Carry 5 Lunar items in a single run.",
+		"ACHIEVEMENT_CARRYLUNARITEMS_DESCRIPTION": "have 5 Lunar items in a single run.",
 
 		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_NAME": "the rex experience",
-		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_DESCRIPTION": "Charge the Teleporter with less than 10% health.",
+		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_DESCRIPTION": "charge the teleporter with less than 10% hp",
 
-		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_NAME": "Ascendant",
+		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_NAME": "more item....?",
 		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_DESCRIPTION": "Defeat the Teleporter bosses after activating 2 Shrines of the Mountain.",
 
-		"ACHIEVEMENT_COMPLETETELEPORTER_NAME": "congratulations  you have a pulse",
-		"ACHIEVEMENT_COMPLETETELEPORTER_DESCRIPTION": "Complete a Teleporter event.",
+		"ACHIEVEMENT_COMPLETETELEPORTER_NAME": "congratulations you have a pulse",
+		"ACHIEVEMENT_COMPLETETELEPORTER_DESCRIPTION": "complete a teleporter event",
 
 		"ACHIEVEMENT_COMPLETETHREESTAGES_NAME": "also literally just play the game holy shit its notthat hard",
-		"ACHIEVEMENT_COMPLETETHREESTAGES_DESCRIPTION": "Reach and complete the 3rd Teleporter event without dying.",
+		"ACHIEVEMENT_COMPLETETHREESTAGES_DESCRIPTION": "reach and complete the 3rd teleporter event without dying",
 
 		"ACHIEVEMENT_DIE5TIMES_NAME": "five percent of TBOI scissors unlock",
 		"ACHIEVEMENT_DIE5TIMES_DESCRIPTION": "die 5 times",
@@ -37,10 +37,10 @@
 		"ACHIEVEMENT_DISCOVER5EQUIPMENT_DESCRIPTION": "Pick up 5 different types of Equipment.",
 
 		"ACHIEVEMENT_COMPLETE20STAGES_NAME": "top ten unemployed people (number one will surprise you!)",
-		"ACHIEVEMENT_COMPLETE20STAGES_DESCRIPTION": "complete 20 stages in a single run",
+		"ACHIEVEMENT_COMPLETE20STAGES_DESCRIPTION": "loop 4 times like a maniac and complete 20 stages in a single run",
 
-		"ACHIEVEMENT_HARDELITEBOSSKILL_NAME": "RAHHH I LOVE SHRINE OF THE MOUNTAIN",
-		"ACHIEVEMENT_HARDELITEBOSSKILL_DESCRIPTION": "defeat an Elite boss on Monsoon",
+		"ACHIEVEMENT_HARDELITEBOSSKILL_NAME": "oh hi overloading elder lemurian horde",
+		"ACHIEVEMENT_HARDELITEBOSSKILL_DESCRIPTION": "defeat an Elite boss on PISSING",
 
 		"ACHIEVEMENT_KILLTOTALENEMIES_NAME": "you click on the bad guys and you shoot and they  die",
 		"ACHIEVEMENT_KILLTOTALENEMIES_DESCRIPTION": "defeat 3000 enemies",
@@ -165,14 +165,14 @@
 		"ACHIEVEMENT_TREEBOTLOWHEALTHTELEPORTER_NAME": "REX: Bushwhacked",
 		"ACHIEVEMENT_TREEBOTLOWHEALTHTELEPORTER_DESCRIPTION": "As REX, complete an entire teleporter event while under 50% health.",
 
-		"ACHIEVEMENT_MAGEFASTBOSS_NAME": "Artificer: Chunked!",
-		"ACHIEVEMENT_MAGEFASTBOSS_DESCRIPTION": "As Artificer, fully defeat the teleporter boss in a one-second burst of damage.",
+		"ACHIEVEMENT_MAGEFASTBOSS_NAME": "big boob mage lady: Chunked!",
+		"ACHIEVEMENT_MAGEFASTBOSS_DESCRIPTION": "As big boob mage lady, fully defeat the teleporter boss in a one-second burst of damage.",
 
-		"ACHIEVEMENT_MAGEAIRBORNEMULTIKILL_NAME": "Artificer: Orbital Bombardment",
-		"ACHIEVEMENT_MAGEAIRBORNEMULTIKILL_DESCRIPTION": "As Artificer, kill 15 enemies before touching the ground.",
+		"ACHIEVEMENT_MAGEAIRBORNEMULTIKILL_NAME": "big boob mage lady: Orbital Bombardment",
+		"ACHIEVEMENT_MAGEAIRBORNEMULTIKILL_DESCRIPTION": "As big boob mage lady, kill 15 enemies before touching the ground.",
 
-		"ACHIEVEMENT_MAGEMULTIKILL_NAME": "Artificer: Massacre",
-		"ACHIEVEMENT_MAGEMULTIKILL_DESCRIPTION": "As Artificer, perform a multikill of 20 enemies.",
+		"ACHIEVEMENT_MAGEMULTIKILL_NAME": "big boob mage lady: Massacre",
+		"ACHIEVEMENT_MAGEMULTIKILL_DESCRIPTION": "As big boob mage lady, perform a multikill of 20 enemies.",
 
 		"ACHIEVEMENT_BURNTODEATH_NAME": "Warm For Life",
 		"ACHIEVEMENT_BURNTODEATH_DESCRIPTION": "Die three times while burning.",
@@ -196,43 +196,43 @@
 		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_DESCRIPTION": "As Commando, clear 20 stages in a single run without picking up any Lunar items.",
 
 		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_NAME": "Commando: Mastery",
-		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_DESCRIPTION": "As Commando, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_DESCRIPTION": "As Commando, beat the game or obliterate on PISSING",
 
 		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_NAME": "MUL-T: Mastery",
-		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_DESCRIPTION": "As MUL-T, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_DESCRIPTION": "As MUL-T, beat the game or obliterate on PISSING",
 
 		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_NAME": "Huntress: Mastery",
-		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_DESCRIPTION": "As Huntress, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_DESCRIPTION": "As Huntress, beat the game or obliterate on PISSING",
 
-		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_NAME": "Artificer: Mastery",
-		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_DESCRIPTION": "As Artificer, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_NAME": "big boob mage lady: Mastery",
+		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_DESCRIPTION": "As big boob mage lady, beat the game or obliterate on PISSING",
 
 		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_NAME": "Mercenary: Mastery",
-		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_DESCRIPTION": "As Mercenary, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_DESCRIPTION": "As Mercenary, beat the game or obliterate on PISSING",
 
 		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_NAME": "REX: Mastery",
-		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_DESCRIPTION": "As REX, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_DESCRIPTION": "As REX, beat the game or obliterate on PISSING",
 
 		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_NAME": "saxton hale: Mastery",
-		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_DESCRIPTION": "As saxton hale, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_DESCRIPTION": "As saxton hale, beat the game or obliterate on PISSING",
 
 		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_NAME": "dogy: Mastery",
-		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_DESCRIPTION": "As dogy, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_DESCRIPTION": "As dogy, beat the game or obliterate on PISSING",
 
 		"ACHIEVEMENT_ENGICLEARGAMEMONSOON_NAME": "Engineer: Mastery",
-		"ACHIEVEMENT_ENGICLEARGAMEMONSOON_DESCRIPTION": "As Engineer, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_ENGICLEARGAMEMONSOON_DESCRIPTION": "As Engineer, beat the game or obliterate on PISSING",
 
 		"ACHIEVEMENT_CAPTAINCLEARGAMEMONSOON_NAME": "Captain: Mastery",
-		"ACHIEVEMENT_CAPTAINCLEARGAMEMONSOON_DESCRIPTION": "As Captain, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_CAPTAINCLEARGAMEMONSOON_DESCRIPTION": "As Captain, beat the game or obliterate on PISSING",
 
 		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_NAME": "Bandit: Mastery",
-		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_DESCRIPTION": "As Bandit, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_DESCRIPTION": "As Bandit, beat the game or obliterate on PISSING",
 
-		"ACHIEVEMENT_RAILGUNNERCLEARGAMEMONSOON_NAME": "Railgunner: Mastery",
-		"ACHIEVEMENT_RAILGUNNERCLEARGAMEMONSOON_DESCRIPTION": "As Railgunner, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_RAILGUNNERCLEARGAMEMONSOON_NAME": "point & click adventure: Mastery",
+		"ACHIEVEMENT_RAILGUNNERCLEARGAMEMONSOON_DESCRIPTION": "As point & click adventure, beat the game or obliterate on PISSING",
 
 		"ACHIEVEMENT_VOIDSURVIVORCLEARGAMEMONSOON_NAME": "「V??oid Fiend』: Mastery",
-		"ACHIEVEMENT_VOIDSURVIVORCLEARGAMEMONSOON_DESCRIPTION": "As 「V??oid Fiend』, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_VOIDSURVIVORCLEARGAMEMONSOON_DESCRIPTION": "As 「V??oid Fiend』, beat the game or obliterate on PISSING",
 
 		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_NAME": "Blockade Breaker",
 		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_DESCRIPTION": "Kill 15 boss monsters in a single run.",
@@ -351,14 +351,14 @@
 		"ACHIEVEMENT_BANDIT2STACKSUPERBLEED_NAME": "Bandit: Sadist",
 		"ACHIEVEMENT_BANDIT2STACKSUPERBLEED_DESCRIPTION": "As Bandit, kill a monster with 20 stacks of Hemorrhage.",
 
-		"ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_NAME": "Railgunner: Annihilator",
-		"ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_DESCRIPTION": "As Railgunner, deal 1,000,000 damage in one shot.",
+		"ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_NAME": "point & click adventure: Annihilator",
+		"ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_DESCRIPTION": "As point & click adventure, deal 1,000,000 damage in one shot.",
 
-		"ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_NAME": "Railgunner: Marksman",
-		"ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_DESCRIPTION": "As Railgunner, fire 30 consecutive sniper shots without missing a Weak Point.",
+		"ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_NAME": "point & click adventure: Marksman",
+		"ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_DESCRIPTION": "As point & click adventure, fire 30 consecutive sniper shots without missing a Weak Point.",
 
-		"ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_NAME": "Railgunner: Trickshot",
-		"ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_DESCRIPTION": "As Railgunner, get 3 kills with a single Supercharge shot while airborne.",
+		"ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_NAME": "point & click adventure: Trickshot",
+		"ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_DESCRIPTION": "As point & click adventure, get 3 kills with a single Supercharge shot while airborne.",
 
 
 		"ACHIEVEMENT__NAME": "",
