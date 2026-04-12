@@ -1,0 +1,7 @@
+{
+    "name": "Significantly_Worse_Text",
+    "version_number": "1.0.0",
+    "description": "Makes all text suck",
+    "website_url": "",
+    "dependencies": ["RiskofThunder-R2API_Language-1.1.0"]
+}
