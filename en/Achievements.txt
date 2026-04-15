@@ -40,13 +40,13 @@
 		"ACHIEVEMENT_COMPLETE20STAGES_DESCRIPTION": "loop 4 times like a maniac and complete 20 stages in a single run",
 
 		"ACHIEVEMENT_HARDELITEBOSSKILL_NAME": "oh hi overloading elder lemurian horde",
-		"ACHIEVEMENT_HARDELITEBOSSKILL_DESCRIPTION": "defeat an Elite boss on PISSING",
+		"ACHIEVEMENT_HARDELITEBOSSKILL_DESCRIPTION": "kill an elite boss on PISSING",
 
 		"ACHIEVEMENT_KILLTOTALENEMIES_NAME": "you click on the bad guys and you shoot and they  die",
-		"ACHIEVEMENT_KILLTOTALENEMIES_DESCRIPTION": "defeat 3000 enemies",
+		"ACHIEVEMENT_KILLTOTALENEMIES_DESCRIPTION": "kill 3000 people",
 
 		"ACHIEVEMENT_KILLELITEMONSTER_NAME": "wow that ice guy dropped a weird bubble when he died i wonder what happens if i stand in it",
-		"ACHIEVEMENT_KILLELITEMONSTER_DESCRIPTION": "defeat an Elite-type monster",
+		"ACHIEVEMENT_KILLELITEMONSTER_DESCRIPTION": "kill an elite",
 
 		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_NAME": "Verified",
 		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_DESCRIPTION": "Complete the first Teleporter event 5 times.",
@@ -58,7 +58,7 @@
 		"ACHIEVEMENT_TOTALDRONESREPAIRED_DESCRIPTION": "repair 30 drones or turrets jk you are not picking up turrets lmao",
 
 		"ACHIEVEMENT_TOTALMONEYCOLLECTED_NAME": "your GREED is hurting the economy!!",
-		"ACHIEVEMENT_TOTALMONEYCOLLECTED_DESCRIPTION": "Collect $30,480 total gold",
+		"ACHIEVEMENT_TOTALMONEYCOLLECTED_DESCRIPTION": "get thirty billion dollars and invest none of it in welfare",
 
 		"ACHIEVEMENT_FINDTIMEDCHEST_NAME": "when i said to go fast i didnt mean like this where are your items",
 		"ACHIEVEMENT_FINDTIMEDCHEST_DESCRIPTION": "Open the Timed Security Chest on Rallypoint Delta.",
