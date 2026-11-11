@@ -169,7 +169,7 @@
 		"ITEM_INFUSION_LORE": "Order: Infusion\r\nTracking Number: 768******\r\nEstimated Delivery: 02\/8\/2056\r\nShipping Method: Priority\/Biological\r\nShipping Address: Rage Valley, Fleet Hanger, Mars\r\n\r\nContains samples from bears, leeches, tigers, elephants, elephant sharks, sharks, bull sharks, ants, and anteaters. Simply hook up to a dialysis machine along with the necessary equipment and swap out your blood for genetically superior ones! \r\n\r\nYou can add whatever blood sample you want, as far as I know. Just make sure you take the pills that allow the body to accept the new blood, or your body will reject the cross-species infusion. Remember that sampling from other animals is a great basis for experimentation!\r\n",
 
 		"ITEM_SHOCKNEARBY_NAME": "minecraft lightning rod",
-		"ITEM_SHOCKNEARBY_PICKUP": "Shock all nearby enemies every 10 seconds.",
+		"ITEM_SHOCKNEARBY_PICKUP": "you should stand within 35m of me... NOW!",
 		"ITEM_SHOCKNEARBY_DESC": "Fire out <style=cIsDamage>lightning</style> that hits <style=cIsDamage>3</style> <style=cStack>(+2 per stack)</style> enemies for <style=cIsDamage>200%</style> base damage every <style=cIsDamage>0.5s</style>. The Tesla Coil switches off every <style=cIsDamage>10 seconds</style>.",
 		"ITEM_SHOCKNEARBY_LORE": "<style=cMono>Tesla Presentation Software v1.14\r\nPowering on...\r\n10...\r\nIssuing welcome statement...\r\n9...</style>\r\nWelcome one and all!\r\n<style=cMono>8...</style>\r\nPlease take a seat.\r\n<style=cMono>7...</style>\r\nMake sure those behind you can see.\r\n<style=cMono>6...</style>\r\nThe presentation will start shortly.\r\n<style=cMono>5...</style>\r\nPlease obey the staff for your safety.\r\n<style=cMono>4...\r\nInitiating room mood lighting...\r\n3...</style>\r\nGet ready to behold...\r\n<style=cMono>2...</style>\r\nThe marvelous wonders...\r\n<style=cMono>1...</style>\r\nOf electricity!\r\n<style=cMono>Power anomaly detected...\r\nInitiating reboot procedure in 10...</style>\r\n",
 
@@ -189,7 +189,7 @@
 		"ITEM_FIREWORK_LORE": "\"Hey, happy anniversary!\r\n\r\nYou really thought I forgot?\r\n\r\nAh, I thought I was the dumb one in our relationship. C'mon T, of course not! Well, I wasn't going to let a little alien death planet ruin our night. Right? Shh, just watch. Just watch. It's okay. Just watch. You'll love it - you really will. Then we can go home.\r\n\r\nYou can keep your eyes closed. Just listen. Ah - here it comes! In five... four... three... two... ONE...!\"\r\n",
 
 		"ITEM_BANDOLIER_NAME": "poor man's alien head",
-		"ITEM_BANDOLIER_PICKUP": "chance on kill to drop an ammo pack that resets all skill cooldowns.",
+		"ITEM_BANDOLIER_PICKUP": "your bullets? you mean MY bullets",
 		"ITEM_BANDOLIER_DESC": "<style=cIsUtility>18%</style> <style=cStack>(+10% per stack)</style> chance on kill to drop an ammo pack that <style=cIsUtility>resets all skill cooldowns</style>.",
 		"ITEM_BANDOLIER_LORE": "Order: Bandolier\r\nTracking Number: 112*****\r\nEstimated Delivery: 04/19/2056\r\nShipping Method: Standard\r\nShipping Address: 3950 Sunsell Ln, Tri-City, Earth\r\nShipping Details:\r\n\r\nThank you for your participation in the auction! We\u2019ve included a short history on the item, as well as documents to verify its authenticity.\r\n\r\nThis is the famous bandolier worn by B. Grundy himself. He and his pals used to raise terror all over the map of the new territories. Their favorite activity was to tie up people they didn\u2019t like and drag them behind their horses \u2013 Grundy clearly had a sweet spot for the old days.\r\n\r\nThe sling carries an impressive assortment of ammunition - Grundy himself carried many different guns. It was rumored that they held out for 3 whole days and nights before their weapons ran dry.\r\n\r\n",
 
@@ -263,14 +263,14 @@
 		"ITEM_SPRINTARMOR_DESC": "<style=cIsHealing>Increase armor</style> by <style=cIsHealing>30</style> <style=cStack>(+30 per stack)</style> <style=cIsUtility>while sprinting</style>.",
 		"ITEM_SPRINTARMOR_LORE": "Order: Please let me know when you get this. I foun...\r\nTracking Number: 53******\r\nEstimated Delivery: 05\/22\/2056\r\nShipping Method: Priority\r\nShipping Address: Research Center, Polarity Zone, Neptune\r\nShipping Details:\r\n\r\nBTW Mama should have sent over another package as well. Let me know when you get it.\r\n\r\nPapa",
 
-		"ITEM_ELEMENTALRINGS_NAME": "Kjaro and Runald's Bands",
+		"ITEM_ELEMENTALRINGS_NAME": "burst dmg that you're going to waste on a shuriken",
 		"ITEM_ICERING_NAME": "ice flower",
-		"ITEM_ICERING_PICKUP": "High damage hits also blasts enemies with runic ice. Recharges over time.",
+		"ITEM_ICERING_PICKUP": "is it cold in here or is it just me",
 		"ITEM_ICERING_DESC": "Hits that deal <style=cIsDamage>more than 400% damage</style> also blasts enemies with a <style=cIsDamage>runic ice blast</style>, <style=cIsUtility>slowing</style> them by <style=cIsUtility>80%</style> for <style=cIsUtility>3s</style> <style=cStack>(+3s per stack)</style> and dealing <style=cIsDamage>250%</style> <style=cStack>(+250% per stack)</style> TOTAL damage. Recharges every <style=cIsUtility>10</style> seconds.",
 		"ITEM_ICERING_LORE": "\"Should memories be lost,\r\nShould oceans be clouded,\r\nWill you bring me fervor?\r\nWill you die with me?\"\r\n\r\n-The Syzygy of Io and Europa\r\n",
 
 		"ITEM_FIRERING_NAME": "fire flower",
-		"ITEM_FIRERING_PICKUP": "High damage hits also blasts enemies with a runic flame tornado. Recharges over time.",
+		"ITEM_FIRERING_PICKUP": "sometimes u gotta hit them with that <style=cIsDamage>PSI Fire Ω</style> ykw i mean",
 		"ITEM_FIRERING_DESC": "Hits that deal <style=cIsDamage>more than 400% damage</style> also blasts enemies with a <style=cIsDamage>runic flame tornado</style>, dealing <style=cIsDamage>300%</style> <style=cStack>(+300% per stack)</style> TOTAL damage over time. Recharges every <style=cIsUtility>10</style> seconds.",
 		"ITEM_FIRERING_LORE": "\"Should passion die down,\r\nShould light be extinguished,\r\nWill you bring me patience?\r\nWill you die with me?\"\r\n\r\n-The Syzygy of Io and Europa",
 
@@ -280,7 +280,7 @@
 		"ITEM_SLOWONHIT_LORE": "Order: Chronobauble\r\nTracking Number: 99******\r\nEstimated Delivery: 03\/03\/2066\r\nShipping Method: Priority\r\nShipping Address: 9042 Pvt. Drive, Yustik Plaza, Mercury\r\nShipping Details:\r\n\r\nWeren't you just a kid? Summer break feels like it was just so recent - but it's been 10 years, hasn't it? Life moves faster and faster as you get older - less moments to remember, to cement you in time. I don't even remember being 25. How did I forget an entire year?\r\n\r\nAnyways - I found this in a trinket shop on Mercury. A chronobauble - the seller said something about special relativity, real heavy distortions or something - I didn't really get it. It's supposed to slow down time around it. Right.\r\n\r\nAnyways, I'm shipping this to myself - to arrive in 10 years. A gift, from me to me. A reminder to make memories, to slow down a bit. 10 years will pass so quick - try to remember them! You've got to put effort in life!\r\n",
 
 		"ITEM_EXTRALIFE_NAME": "i always come back",
-		"ITEM_EXTRALIFE_PICKUP": "defy all logic and let the narrative refuse to drop you for another several installments\n eated on use",
+		"ITEM_EXTRALIFE_PICKUP": "defy all logic and let the narrative refuse to drop you for another several installments \neated on use",
 		"ITEM_EXTRALIFE_DESC": "<style=cIsUtility>Upon death</style>, this item will be <style=cIsUtility>eated</style> and you will <style=cIsHealing>return to life</style> with <style=cIsHealing>3 seconds of invulnerability</style>.",
 		"ITEM_EXTRALIFE_LORE": "Hey Dio,\r\n\r\nWow, you have gotten older since the last time I wrote! How old are you now \u2013 10? And so much grumpier, too. I\u2019ve never seen a cat so grumpy. What do you have to be grumpy about?\r\n\r\nDespite the fact that you are the pickiest eater I know \u2013 and love to meow all throughout the night, every night \u2013 it still makes me happy to hear you bounding down the stairs every time I come home. I like when I wake up and I see you sleeping across from me. I like when you sit at the dining table, like you\u2019re going to eat with us too. I like how you hit the power button every time you walk across my laptop. I like how shamelessly needy you are.\r\n\r\nPlease live a long life \u2013 I\u2019m needy too, and I\u2019d like that a lot.\r\n\r\nLove,\r\nDuncan\r\n\r\nPS would it kill you to purr for mama every now and then?\r\n",
 
@@ -338,7 +338,7 @@
 		"ITEM_TONICAFFLICTION_DESC": "Reduces ALL stats by <style=cIsHealth>-5%</style> <style=cStack>(-5% per stack)</style>",
 
 		"ITEM_TITANGOLDDURINGTP_NAME": "aurelionite phone number",
-		"ITEM_TITANGOLDDURINGTP_PICKUP": "call aurelionite to <style=cIsDamage>kick the tp boss' ass</style>",
+		"ITEM_TITANGOLDDURINGTP_PICKUP": "call big gold lady to <style=cIsDamage>kick the tp boss' ass</style>",
 		"ITEM_TITANGOLDDURINGTP_DESC": "Summon <style=cIsDamage>Aurelionite</style> during the teleporter event. It has <style=cIsDamage>100% <style=cStack>(+50% per stack)</style> damage</style> and <style=cIsHealing>100% <style=cStack>(+100% per stack)</style> health</style>.",
 		"ITEM_TITANGOLDDURINGTP_LORE": "Brother, what is this...? Why is it misshapen and weak? Was there an error in my design?\r\n\r\nGuardian. Come to me. Allow me to see your construction.\r\n\r\n...\r\n\r\nSo I see.\r\n\r\nThese are not the correct ratios.\r\n\r\nThis is no minor error, Brother. You have purposefully deviated from the design. For what purpose have you done this? You cannot weave a construct from such an abundance of soul. You know it is too unstable - that it is too unpredictable and too frail. I have told you this, and yet you have wasted the materials I have gathered - and exhausted your own strength to fabricate this miscreation.\r\n\r\nTo what benefit?\r\n\r\nAt its best, it can be no more than an inferior servant; it is deficient in the compounds that were to give it fortitude and strength. At its worst, it will betray us.\r\n\r\nYou have created the first being of this world which threatens us. We cannot keep it here. Attempting to destroy it will risk its retaliation... I will prepare one of the vaults for it to be sealed away, while it is still young and naive.\r\n\r\nWhat a foolish mistake you have made, brother.\r\n\r\nI expect you to return the design to me. I cannot allow you to build another construct with so much power - and with such little control. I will build the rest of our guardians; by my hand, they will be weak, but at least they will be loyal.\r\n\r\nGo home. I will deal with this creature. We can discuss a better project for you when I return.",
 
