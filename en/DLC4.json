@@ -642,7 +642,7 @@
 
         "FAMILY_LYNX": "<style=cWorldEvent>[WARNING] Something malicious is brewing..</style>",
 
-        "MIMIC_BODY_NAME": "Mimic",
+        "MIMIC_BODY_NAME": "dark souls mimic in ror wtf",
         "MIMIC_BODY_LORE": "<style=cMono>> Automated report 44fbb488e8d8847 is now available from site record 0493921a9539eef.\r\n > Please refer to record 59asfd84106fbd8676 for additional details during your review.\r\n > Report Type: Machine-generated Transcription> base Vernacular Profile “Brian”\r\n > - Source: 57fee8a8g7sd7g7790fg (Blackbox Recording recovered from cadaver)\r\n > Priority: Low\r\n > Report Content:\r\n\r\n -- Beginning of Excerpt Flagged for Review -- </style>\r\n\r\nHey, did that chest just move?\r\n\r\n<style=cMono> -- End of Recording -- \r\n\r\n -- End of Excerpt Flagged for Review -- \r\n\r\n > Please refer to report 44fbb488e8d8847 for full audio excerpt. ==============================================================</style>",
 
 
@@ -651,7 +651,7 @@
         "REAPER_BODY_SUBTITLE": "The Hallowed Conceptualizer",
         "REAPER_BODY_LORE": "Rejoice, O Simple Vessels!\r\nThis is My Mercy.\r\n\r\nTo Harvest that Anima which abides within all things living,\r\nTo Return Balance to the scales askew,\r\nTo Shatter not all Vessels with My Presence True,\r\nTo Embrace the Worthy and Take them Home,\r\nI appear unto you in this form.\r\n\r\nThis is My Mercy.\r\nDo not take it lightly.",
 
-        "SCONCE_NAME": "Ritual Sconce",
+        "SCONCE_NAME": "pinecone that lets you fight scavs",
         "SCONCE_DESCRIPTION": "TBD",
 
         "SPORESPIT_BODY_NAME": "Spore Bulb",
@@ -827,27 +827,27 @@
         "RULE_KEYITEM_ON_DESCRIPTION": "Enables this key item to appear in the world.",
         "RULE_KEYITEM_OFF_DESCRIPTION": "Disables this key item from appearing in the world.",
 
-        "QUEST_COMPULSION_DEALDAMAGE": "Kill {0:N0} Enemies quickly. ({1:N0}/{0:N0})",
+        "QUEST_COMPULSION_DEALDAMAGE": "{1:N0} left. ({1:N0}/{0:N0})",
         "QUEST_COMPULSION_DRINKSODAS": "drink a lot of soda (preferably dont piss yourself) ({1:N0}/{0:N0})",
         "QUEST_COMPULSION_HEALTOTALHEALTH": "Heal {0:N0} total health to yourself. ({1:N0}/{0:N0})",
         "QUEST_COMPULSION_HOLDGOLD": "make lods of emone ({1:N0}/{0:N0})",
         "QUEST_COMPULSION_KILLELITES": "Kill {0:N0} Elites. ({1:N0}/{0:N0})",
-        "QUEST_COMPULSION_KILLEPICMONSTERS": "Defeat the Massive {0}.",
+        "QUEST_COMPULSION_KILLEPICMONSTERS": "kill the big and round {0}.",
         "QUEST_COMPULSION_KILLEPICMONSTERS_MULTI": "Defeat {0:N0} Massive Elite Monsters. ({1:N0}/{0:N0})",
         "QUEST_COMPULSION_KILLEPICMONSTERS_SUBTITLE": "oouh it's soooo big",
         "QUEST_COMPULSION_KILLTARGET": "Kill the {0:N0} Special Targets. ({1:N0}/{0:N0})",
-        "QUEST_COMPULSION_LEMURIANPOLYMORPH": "Survive as a {0}. {1:N0}s",
+        "QUEST_COMPULSION_LEMURIANPOLYMORPH": "i turned myself into a {0} morty im {0} rick    {1:N0}s",
         "QUEST_COMPULSION_NOHITRUN": "Kill {0:N0} Enemies without getting hit. ({1:N0}/{0:N0})",
         "QUEST_COMPULSION_SCRAPORPRINTITEMS": "Scrap {0:N0} items. ({1:N0}/{0:N0})",
         "QUEST_COMPULSION_REVIVE": "Revive before the timer runs out. {2:N0}s ({1:N0}/{0:N0})",
         "QUEST_COMPULSION_ORDER": "completely fuck your build ({1:N0}/{0:N0})",
         "QUEST_COMPULSION_CLOAKEDCHEST": "waste 20 minutes searching for a {0}",
-        "QUEST_COMPULSION_REACHAREA": "Reach the Area before it changes location! {0:N0}s",
+        "QUEST_COMPULSION_REACHAREA": "yo i pinged something can you go take a look \n{0:N0}s",
         "QUEST_COMPULSION_METEORSHOWER": "Don't take Damage for {0:N0}s",
         "QUEST_COMPULSION_BLINDPEST": "Exterminate {0:N0} {1}s ({2:N0}/{0:N0})",
-        "QUEST_COMPULSION_LOWERENEMYHEALTH": "Leave {0:N0} enemies alive at low health. ({1:N0}/{0:N0})",
+        "QUEST_COMPULSION_LOWERENEMYHEALTH": "break {0:N0} enemies' legs ({1:N0}/{0:N0})",
 
-        "POLYMORPH_BODY_SUBTITLE": "i turned myself into a lemurian morty",
+        "POLYMORPH_BODY_SUBTITLE": "what does this add to the game exactly",
 
         "MAP_MIRE_TITLE": "glenebrous Quagmire",
         "MAP_MIRE_SUBTITLE": "giggity",
