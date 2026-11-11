@@ -143,12 +143,12 @@
         "ACHIEVEMENT_ENFORCER2BLOCKXTELEPORTER_DESCRIPTION": "As Enforcer, block the attacks of 12 enemies during a single teleporter event.",
 
 
-        "ELITE_MODIFIER_DEATH": "Stygian {0}",
+        "ELITE_MODIFIER_DEATH": "fucked up and evil {0}",
 
         "PORTAL_TRIAL_PREVIEW": "<style=cWorldEvent>An Anima Orb appears..</style>",
         "PORTAL_TRIAL_SPAWN": "<style=cWorldEvent>An Anima Portal appears..</style>",
-        "PORTAL_TRIAL_EXIT_CONTEXT": "Exit the Winnowing",
-        "PORTAL_TRIAL_ENTRY_CONTEXT": "Enter the Winnowing",
+        "PORTAL_TRIAL_EXIT_CONTEXT": "Exit the minnowing",
+        "PORTAL_TRIAL_ENTRY_CONTEXT": "Enter the minnowing",
         "PORTAL_TRIAL_NAME": "Anima Portal",
 
         "PORTAL_CHAMP_RUSH_SPAWN": "<style=cWorldEvent>A ritual portal appears..</style>",
@@ -158,7 +158,7 @@
 
         "PORTAL_CHAMP_RUSH_EXIT_SPAWN": "<style=cWorldEvent>A portal to the mortal plane appears..</style>",
         "PORTAL_CHAMP_RUSH_EXIT_CONTEXT": "Enter Mortal Portal",
-        "PORTAL_CHAMP_RUSH_EXIT_NAME": "Mortal Portal",
+        "PORTAL_CHAMP_RUSH_EXIT_NAME": "Mortal Portal (it rhymes so abbreviating it is gross)",
 
         "PORTAL_ULTIMA_CONTEXT": "Go beyond the veil",
         "PORTAL_ULTIMA_NAME": "Veil of Memory",
@@ -170,12 +170,12 @@
         "TOOLTIP_UNLOCK_KEYITEM_DESCRIPTION": "This Key Item is now available.",
         "INPUT_GAMEPAD_USEKEYITEM": "Activate Key Item",
 
-        "ITEM_RECHARGEABLEJUMP_NAME": "Earthbound Vessel",
+        "ITEM_RECHARGEABLEJUMP_NAME": "mother 2 Vessel",
         "ITEM_RECHARGEABLEJUMP_PICKUP": "Gain 3 extra jumps that recharge over time while grounded. Increased armor while grounded.",
         "ITEM_RECHARGEABLEJUMP_DESC": "Gain <style=cIsUtility>3</style> <style=cStack>(+2 per stack)</style> extra <style=cIsUtility>jumps</style> that recharge after being grounded for <style=cIsUtility>5 seconds</style> <style=cStack>(-25% per stack)</style>. Each unused jump <style=cIsHealing>increases armor</style> by <style=cIsHealing>5</style>.",
         "ITEM_RECHARGEABLEJUMP_LORE": "Order: Mandrake (Mandragora Anomalus)\r\nTracking Number: 99******\r\nEstimated Delivery: 06/01/2056\r\nShipping Method: Priority, Biological\r\nShipping Address: Biological Research and Development, San Viento, Mercury\r\nShipping Details:\r\n\r\nThis weird little bugger popped out of the ground early and has been hell bent on making everyone join it in its misery. Things have been falling or collapsing ever since we plucked it... A five pound bag of fertilizer nearly killed Janet after it reached terminal velocity. The thing fell like three meters, if even! I'm a man of science, I don't believe in the supernatural, but I almost died when a crane \"malfunctioned\" and dropped a fifty foot steel bar right in front of me as I was sending this guy over to research. It's cursed, I'm telling you! Throw this thing into the sun for me, alright?",
 
-        "ITEM_MUSHSHOT_NAME": "Mycelium Cap",
+        "ITEM_MUSHSHOT_NAME": "so retro!",
         "ITEM_MUSHSHOT_PICKUP": "Nullifies fall damage. Hitting the ground at a great enough speed creates a group of damaging spore clouds.",
         "ITEM_MUSHSHOT_DESC": "<style=cIsUtility>Nullifies fall damage</style>. Hitting the ground at a <style=cIsUtility>great enough speed</style> creates <style=cIsDamage>3</style> damaging spore clouds on impact that deal <style=cIsDamage>1000%</style> <style=cStack>(+200% per stack)</style> damage each over <style=cIsUtility>10s</style>.",
         "ITEM_MUSHSHOT_LORE": "<style=cMono>Lab Dissection Analysis File</style>\r\n\r\nSubject: Mycelium Cap\r\nTechnician: Dr. Lyn Welleg\r\nTable Spec: FlushTek OHB 2-in-1 with Laminate Sealers\r\nNotes:\r\n\r\n> Clearing excess fungi, eww... gross, what happened to this thing?\r\n> Depositing the overgrown weapon into the flush bin\r\n> Flush cycle started... \r\n> Tech aid will take over follow-up cleansing procedures \r\n> Warned tech aid that discharging the weapon is strictly prohibited, even after cleaning \r\n> Tech aid is insistent about field testing after cleaning \r\n> Gave second warning \r\n> Timestamp at 1.2110 \r\n\r\n> Timestamp at 2.1348 \r\n> Tech aid discharged the weapon, spewing fungi everywhere, there’s a hole in the roof for some reason; what a mess! \r\n> The fungi just grow back. That’s why I warned you!",
@@ -229,7 +229,7 @@
         "NOTIF_PURIFY_SUCCESS": "3 <style=cDeath>Hexes</style> have been transformed into a {0}.",
         "NOTIF_PURIFY_FAILURE": "{0} <style=cDeath>Hexes</style> have been transformed into <style=cStack>nothingness</style>...",
 
-        "CURSEDBOOK_SPELL_SUMMONFERALTODDLERS_NAME": "Fanatic Summons",
+        "CURSEDBOOK_SPELL_SUMMONFERALTODDLERS_NAME": "go, my reused rat ai children",
         "CURSEDBOOK_SPELL_SUMMONFERALTODDLERS_PICKUP": "Call a group of Lynx Pups to your aid.",
         "CURSEDBOOK_SPELL_SUMMONFERALTODDLERS_DESC": "Unlocks the ritual <style=cHumanObjective>Fanatic Summons</style> within the N'tormat. Summons 10 <style=cIsUtility>Lynx Pups</style>, who rapidly bite foes for <style=cIsDamage>100% damage</style>.",
         "CURSEDBOOK_SPELL_SUMMONFERALTODDLERS_LORE": "\"Never think yourself alone, initiates. Followers of our Lady of Balance walk amongst you in all circles of life, whether you - or they - know it. Every mortal contributes to the balancing of the scales, in some way or another. Whether it be stomping an insect, driving a knife into the gut of an innocent, or vanquishing a mighty evil... The scales MUST be balanced, and every soul may pay our Lady of Balance their respects. So thus, my faithful, remember; when you are in great need, call out! Let your voice be heard by our Lady, and She will answer. Her followers, no matter where they may be, will come to answer your call.\"\r\n\r\n- Teachings of G'ratha Kormat, Speaker of Her Concepts, Sermon XXIV",
@@ -244,8 +244,8 @@
         "CURSEDBOOK_SPELL_UPGRADEITEM_DESC": "Unlocks the ritual <style=cHumanObjective>Dark Alchemy</style> within the N'tormat. <style=cDeath>Downgrades</style> a targeted item to a lesser tier, while also dropping an extra copy.",
         "CURSEDBOOK_SPELL_UPGRADEITEM_LORE": "\"It is said that we are special because of our power to shape our environment. To make tools and use them to our advantage. And it is this power that allowed us travel beyond our wildest dreams, see things that can only be described as fantastical, and spread our Lady of Balance's opinions to all who would listen! But it is also this power that tipped the scales. As we made, as our standard of living increased, the balance of this world was left askew. There are billions, nay, TRILLIONS of souls, waiting to fall into her embrace! How could it come to this, I ask you? I will tell you: the power to create! The power of intelligence! It brought us up from the mud, yes, but we have squandered this gift! Abused it! And now, our Lady demands penance. Only then shall you find peace as the scales are balanced once more.\" \r\n\r\n- Teachings of G'ratha Kormat, Speaker of Her Concepts, Sermon XXI",
 
-        "CURSEDBOOK_SPELL_WARPGATE_NAME": "Warp Gate",
-        "CURSEDBOOK_SPELL_WARPGATE_PICKUP": "Place down a warp gate. Interacting with the warp gate allows you to explosively teleport, dealing more damage the farther you travel. <style=cIsUtility>Limited to 4 uses per stage.</style>",
+        "CURSEDBOOK_SPELL_WARPGATE_NAME": "free pillar skip",
+        "CURSEDBOOK_SPELL_WARPGATE_PICKUP": "genuinely what the fuck were they thinking making this",
         "CURSEDBOOK_SPELL_WARPGATE_DESC": "Unlocks the ritual <style=cHumanObjective>Warp Gate</style> within the N'tormat. Conjures a <style=cIsUtility>Warp Gate</style> that can be used to <style=cIsDamage>explosively teleport</style> to anywhere you can see. On arrival, spatial backlash damages enemies for <style=cIsDamage>150% to 15000%</style> and applies stacks of <style=cIsUtility>Frost</style> based on distance traveled. <style=cIsUtility>Limited to 4 uses per stage.</style>",
         "CURSEDBOOK_SPELL_WARPGATE_LORE": "\"The power of belief is something you must NEVER underestimate, initiates. Sure, the dream of just one individual is just a drop of water, but when that dream is shared amongst many it becomes a mighty river! My old friend, Sigibold, and I discussed this concept at length. Faith allows a mere whelp to cross mountains; the spirit is nurtured by faith, and this nourishment opens your mind to her concepts. Food and water become trivial. When you are lost in the dark, simply defer to our Lady of Balance, perform your meditations, and the way shall be revealed. Your faith will harden and your body shall follow its example.\"\r\n\r\n- Teachings of G'ratha Kormat, Speaker of Her Concepts, Sermon X",
 
@@ -256,9 +256,9 @@
         "WARPGATE_VEHICLE_EXIT_CONTEXT": "Exit Warp Gate",
         "WARPGATE_VEHICLE_INSPECT_CONTEXT": "Interact with the Warp Gate to enter it and aim towards a location. Using the Warp Gate again teleports you to that location, if possible, and creates an explosion on arrival for 150% to 15000% damage and applies stacks of Frost based on distance traveled. <style=cDeath>You can still be hit inside the Warp Gate</style>.",
 
-        "ITEM_PAGESHREDDED_NAME": "Shredded Page",
-        "ITEM_PAGESHREDDED_PICKUP": "Perhaps some knowledge is better forgotten.",
-        "ITEM_PAGESHREDDED_DESC": "Does nothing. What did you think would happen?",
+        "ITEM_PAGESHREDDED_NAME": "why did you do that",
+        "ITEM_PAGESHREDDED_PICKUP": "why did you do that",
+        "ITEM_PAGESHREDDED_DESC": "Does nothing. fucking moron",
         "ITEM_PAGESHREDDED_LORE": "<style=cMono>Welcome to DataScraper (v3.1.53 - beta branch)\n$ Scraping memory... done\n$ Resolving... done.\n$ Combing for relevant data... done.\nComplete!\nOutputting local audio transcriptions...</style>\n\n...uh... yeah. Looks like we've got a page here. Some kind of... N'Kuhana thing? Lots of words. Too bad I'm not reading them...",
 
         "ITEM_WISPONKILL_NAME": "Whispering Fragment",
@@ -266,8 +266,8 @@
         "ITEM_WISPONKILL_DESC": "Every <style=cIsDamage>5</style> kills, gain a temporary <style=cIsDamage>orbiting spirit</style> that attacks with you up to <style=cIsUtility>3 <style=cStack>(+1 per stack)</style></style> times, firing a projectile that <style=cIsDamage>explodes</style> in a <style=cIsDamage>8m</style> radius for <style=cIsDamage>360%</style> base damage.",
         "ITEM_WISPONKILL_LORE": "Lab Dissection Analysis File\r\nSubject: Whispering Fragment \r\nTechnician: V. Day\r\nTable Spec: Seance Equipment (with witch board attachment) \r\n\r\nNotes:\r\n\r\n> fragment of totem recovered from latest expedition\r\n\r\n> soldiers reported hearing voices and hallucinations\r\n\r\n> first exposure test: epidermal exposure\r\n\r\n> touching it with my hand right now\r\n\r\n> oh wow. okay that was a bit jarring but i can see these blurry shapes dancing around my vision\r\n\r\n> they seem to speak? i can't entirely make it out, but it's becoming clearer...\r\n\r\n> what do you mean i'm bald? what mask? maybe you're too hairy\r\n\r\n> they didn't seem to like that",
 
-        "ITEM_BLIGHTZONE_NAME": "Corpse Lily",
-        "ITEM_BLIGHTZONE_PICKUP": "Release an expanding cloud that periodically inflicts enemies with Blight during the Teleporter event and 'Holdout Zones' such as the void fields.",
+        "ITEM_BLIGHTZONE_NAME": "incredible lily",
+        "ITEM_BLIGHTZONE_PICKUP": "this tp needs a hero!",
         "ITEM_BLIGHTZONE_DESC": "Release an <style=cIsDamage>expanding cloud of noxious fumes</style> during the Teleporter event that periodically inflicts stacking <style=cIsVoid>Blight</style> for up to <style=cIsDamage>180% <style=cStack>(+60% per team's stack)</style></style> damage per second, <style=cIsUtility>averaged</style> among team members. The cloud <style=cIsUtility>expands as the event progresses</style>, growing in size by <style=cIsUtility>1%</style> <style=cStack>(+0.15% per stack)</style> per <style=cIsUtility>1%</style> event charge.",
         "ITEM_BLIGHTZONE_LORE": "“What better example than something that is born to take life? Not for sustenance, but purely for bringing parity back to our realm. Misinterpretations would brand this as abject violence, but we know its proper purpose. \r\n\r\nBlessed are those who exhibit this symmetry, blooming through her embrace. Plant the seeds of her teachings and take heart that they are absolute truths.”\r\n\r\n-The N'tormat, Chapter II, Stanza 8, Verse 3",
 
@@ -286,47 +286,47 @@
         "ITEM_CAUSTICPHEROMONES_DESC": "After hitting an enemy with <style=cIsUtility>skills</style> 10 times, <style=cIsDamage>stun</style> and <style=cIsDamage>soul-brand</style> that enemy for <style=cIsUtility>5s <style=cStack>(+5s per stack)</style></style>. Soul-branded enemies <style=cIsUtility>draw attention</style> and <style=cIsDamage>have friendly fire enabled</style>. Once soul-branding wears off, the target <style=cIsUtility>cannot be soul-branded again</style> for 15 seconds.",
         "ITEM_CAUSTICPHEROMONES_LORE": "\"Chained to the ritual stone was the blasphemer Sankor Velliche. Accused of violating holy sites, Sankor was to be put to death. He was innocent, of course, but it didn't matter. A week prior, Sankor had gotten into an argument with a reverend. A reverend who had friends in high places.\r\n\r\nThe method of execution was a mystery, few had seen it. The crowd, watching from the stands of the amphitheater, murmured in anticipation. Sankor pleaded and begged to the friends he spotted in the stands, but they turned away sheepishly. No one in their right mind would defy the word of the ecclesiarchs.\r\n\r\nHushed silence fell over the crowd as the executioner entered the amphitheater. Sankor's eyes widened as the executioner prepared a brand. He recognized the symbol on the end - \"CORPSE.\"\r\n\r\nSankor writhed and screamed as the brand seared the word into his flesh. It went on forever, seemingly, until the white hot pain receded. He collapsed as prone as his chains would allow, panting as his flesh sizzled. And yet, despite the pain, what Sankor noticed immediately was the silence. The crowd was showing no signs of life. Laboriously, he lifted his head to view the audience.\r\n\r\nEach and every member stared transfixed at the symbol burned into Sankor's back. For a moment, he thought he saw a pale light reflecting off the eyes of his sworn friends. A moment later, all hell broke loose as the crowd rushed forward like rabid animals.\r\n\r\nAnd it was in his final moments that Sankor wept. As his sworn friends, acquaintances, and even his mate ripped him to pieces. After the frenzy wore off and the crowd dispersed without recollection of their actions, a single piece of Sankor Velliche remained - and on it was a glowing pale mark.\"\r\n\r\n-N'tormat Apocryphals, Parable XXIV\"",
 
-        "ITEM_DREAMDEMON_NAME": "Nightmare Demon",
-        "ITEM_DREAMDEMON_PICKUP": "Chance on hit to haunt an enemy with a nightmare demon that explodes and activates all your 'on-kill' item effects when hit.",
+        "ITEM_DREAMDEMON_NAME": "\"on-kill effects are useless against mithrix!!\" mfs when i, volume II",
+        "ITEM_DREAMDEMON_PICKUP": "i paid for the 20 gasoline im going to use them god damn it",
         "ITEM_DREAMDEMON_DESC": "<style=cIsDamage>20%</style> chance on hit to haunt an enemy with a <style=cIsDamage>Nightmare Demon</style>. Damaging a haunted enemy charges the demon. Upon reaching a charge of <style=cIsDamage>1600%</style> damage, hitting the demon with any <style=cIsUtility>skill</style> causes it to <style=cIsDamage>explode</style> for <style=cIsDamage>600%</style> <style=cStack>(+600% per stack)</style> base damage and activate all your <style=cIsDamage>On-kill</style> effects.",
         "ITEM_DREAMDEMON_LORE": "“He believed he was cursed - alone in his understanding of this scripture. Michael reached out with desperation and placed his hand on Isaac. Others needed to know. Unfortunately, it seemed that the capacity to harbor these ideas was not universal. \r\n\r\nBe careful with whom you share them. \r\n\r\nIsaac gained knowledge that stretched the confines of his mind. Attempting to understand this profound scripture was unraveling his consciousness. Feeling his thoughts speeding up, manifesting, he had no other choice but to let them burst, burning his synapses and collapsing his cognitive function.”\r\n\r\n-N'tormat Apocryphals, Parable VI",
 
         "ITEM_SANGUINECHALICE_NAME": "Sanguine Chalice",
-        "ITEM_SANGUINECHALICE_PICKUP": "Bleed damage heals you.",
+        "ITEM_SANGUINECHALICE_PICKUP": "bleed for 8 seconds heals you.",
         "ITEM_SANGUINECHALICE_DESC": "<style=cIsDamage>10%</style> chance to <style=cIsDamage>bleed</style> an enemy. Your <style=cIsDamage>bleed</style> damage <style=cIsHealing>heals you</style> for <style=cIsHealing>0.5% <style=cStack>(+0.5% per stack)</style></style> of your maximum health per tick.",
         "ITEM_SANGUINECHALICE_LORE": "“‘Even this sect does not exist outside Her Concepts,’ she preached. In the small room, the bloodletting reached its climax. Taking the splotchy, red, bejeweled cup in her hands, Rebekah took a cautious sip – still holding on to some doubt herself. \r\n\r\nThe congregation appeared as if they were passing peacefully. Loved ones were huddled together, comforting each other. Rebekah took a bigger drink as the figures in the room started to slump. She felt overwhelmed by the energy and brightness that coursed through her veins. \r\n\r\nLater that evening, Rebekah, now radiant and more youthful, set out to spread the word and rebuild her flock.” \r\n\r\n-N'tormat Apocryphals, Parable XII",
 
-        "ITEM_VENGEFULSPIRIT_NAME": "Vengeful Spirit",
-        "ITEM_VENGEFULSPIRIT_PICKUP": "Gain a protective spirit that absorbs 50% of all damage taken. After the spirit is killed, gain a burst of attack speed and reduced skill cooldowns.",
+        "ITEM_VENGEFULSPIRIT_NAME": "item that does fucking NOTHING",
+        "ITEM_VENGEFULSPIRIT_PICKUP": "thanks gearbox",
         "ITEM_VENGEFULSPIRIT_DESC": "Gain <style=cIsHealing>1 <style=cStack>(+1 per stack)</style> protective spirit</style> that absorbs <style=cIsHealing>50%</style> of all damage taken. If the spirit is killed, become <style=cIsDamage>vengeful</style> for the rest of the stage, gaining a <style=cIsDamage>40%</style> increased <style=cIsDamage>attack speed</style> and <style=cIsUtility>20%</style> reduced <style=cIsUtility>skill cooldowns</style> for <style=cIsUtility>15s <style=cStack>(+15s per stack)</style></style> whenever an ally is killed.",
         "ITEM_VENGEFULSPIRIT_LORE": "========================================\r\n\r==== MyBabel Machine Translator ====\r\n\r====[Version 12.45.1.009 ] ======\r\n\r========================================\r\n\rTraining… <100000000 cycles>\r\n\rTraining… <100000000 cycles>\r\n\rTraining... <100000000 cycles>\r\n\rTraining... <102515 cycles>\r\n\rComplete!\r\n\rDisplay result? Y/N\r\n\rY\r\n\r========================================\r\n\rNAN-E UNIT REPORTING TO LOCAL DISTURBANCE. HOSPITAL STAFF UNREACHABLE.\r\n\r...\r\n\rCUSTOMERS STANDING IN HALLWAY. SHOUTING. MS. RITA, SO KIND TO UNIT, SHOUTING AT UNIT. WHAT HAS UNIT DONE?\r\n\rMR. THUISA, COMING BEHIND HER, BLOOD ON HEAD. SMOKE IS COMING OFF HIS HEAD AND OUT OF HIS MOUTH. UNKNOWN MEDICAL MALADY. RESCUE MS. RITA.\r\n\rMR. THUISA IS STILL ATTACKING. INJECT TRANQUILIZER.\r\n\rMR. THUISA IS STILL ATTACKING. INJECT TRANQUILIZER.\r\n\rMR. THUI- MS. RITA?",
 
         "VENGEFULSPIRITFOLLOWER_BODY_NAME": "Protective Spirit",
-        "ITEM_VENGEFULSPIRITRAGEMODE_NAME": "Dormant Spirit",
+        "ITEM_VENGEFULSPIRITRAGEMODE_NAME": "and there you have it, nothing",
         "ITEM_VENGEFULSPIRITRAGEMODE_PICKUP": "A dormant spirit. Gain a burst of increased attack speed and reduced cooldowns whenever an ally is killed. At the start of each stage, it regenerates.",
         "ITEM_VENGEFULSPIRITRAGEMODE_DESC": "Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>40%</style> and reduces <style=cIsUtility>skill cooldowns</style> by <style=cIsUtility>20%</style> for <style=cIsUtility>15s <style=cStack>(+15s per stack)</style></style> whenever an ally is killed. At the start of each stage, it regenerates.",
 
-        "ITEM_LOWHEALTHORBSPAWNER_NAME": "Dream Crucible",
-        "ITEM_LOWHEALTHORBSPAWNER_PICKUP": "Chance for this item to take on another item's cooldown or consumption.",
+        "ITEM_LOWHEALTHORBSPAWNER_NAME": "the cum chalice",
+        "ITEM_LOWHEALTHORBSPAWNER_PICKUP": "I, EbaX, humbly submit a toast, to Nicolas Alexander, for successfully managing to pirate Warcraft III, so that he may play Defense of the Ancients.",
         "ITEM_LOWHEALTHORBSPAWNER_DESC": "When another item goes on cooldown or is consumed, <style=cIsUtility>10% <style=cStack>(+10% per stack)</style></style> chance for <style=cIsHealing>this item to go on cooldown or be consumed instead</style>. Dream Crucible cannot restore itself. At the start of each stage, it regenerates.",
         "ITEM_LOWHEALTHORBSPAWNER_LORE": "She remembers the day her father took her out of Economics Training to go see the Painted Plateau. He paid the gatekeepers, pressing large numbers she knew they scraped together without batting an eye. Turned up the music in our vehicle, playing music loud enough it rattled her seat. \r\n\r\nThe Painted Plateau was too close to the rad zones. I always asked him why there were rad zones, but my dad says there are some mysteries left for adulthood. \r\n\r\nThe sun was shining off the vibrant hues of the art etched into the large, orange plateau. Large, bold lines painted to look like neon signs, large, beautiful faces, all laughing around an impossibly ornate star. I asked my father dozens of questions, who made it, why is it here, can we come again, but the only question he paused on was, “Why did you take me here?” \r\n\r\nHe smiled, saying that living in a system like Primas V means we have to find the space between rules to dream. That he wants me to always remember that, and no matter what comes next, we’d always have today. \r\n\r\nOver the years, the rad zones got bigger, the rules got bigger, and growing up meant learning not only good mysteries, but plenty bad ones too. When the crowdfunders were used to zero out ‘problematic’ districts, she realized that the Painted Plateau was a childhood dream. Something to hold on to, but times like these needed something darker. \r\n\r\nThat was the first night she started dreaming about a place of dark, green shadows. Elegant, long spiking horns, disappearing into an endless, fading horizon. A place where the rules were more. They were what you made them, not what they made you. She dreamed of dancing cats, sharp teeth, and sharper spears.\r\n\r\nAfter the dreams came the meetings in alleys. In cafes in the morning. In the silence after the protests. The whispers of the Concepts. And in those truths, came action. Mysterious stabbings. Officials and rebels strung off new construction. They grew stronger, more elusive, and more knowledgeable. She grew comfortable in the space between Primas V’s rules as she broke them apart. \r\n\r\nIt was not until the dream of dancing cats and sharp teeth gave way to a ship docking at Primas V, despite the unrest. A secret ship, destined to die.\r\n\r\n",
 
-        "ITEM_LOWHEALTHORBSPAWNERBROKEN_NAME": "Dream Crucible (Consumed)",
-        "ITEM_LOWHEALTHORBSPAWNERBROKEN_PICKUP": "Oops. At the start of each stage, it transforms into Dream Crucible.",
+        "ITEM_LOWHEALTHORBSPAWNERBROKEN_NAME": "the cum chalice (eated)",
+        "ITEM_LOWHEALTHORBSPAWNERBROKEN_PICKUP": "Congratulations, Nick, enjoy your DOTA \n*sip*",
         "ITEM_LOWHEALTHORBSPAWNERBROKEN_DESC": "Oops. At the start of each stage, it transforms into Dream Crucible.",
 
-        "ITEM_LOWHEALTHORBSPAWNER_RESTORED_TITLE": "Dream stored!",
-        "ITEM_LOWHEALTHORBSPAWNER_BODY_COOLDOWN": "Dream Crucible absorbed {0}'s cooldown!",
+        "ITEM_LOWHEALTHORBSPAWNER_RESTORED_TITLE": "chalice cummed",
+        "ITEM_LOWHEALTHORBSPAWNER_BODY_COOLDOWN": "for the record yanderedev is a disgusting human being and should die",
         "ITEM_LOWHEALTHORBSPAWNER_BODY_CONSUMPTION": "Dream Crucible was consumed instead of {0}!",
 
 
-        "ITEM_GOLDENGOOSE_NAME": "Totem of Avarice",
-        "ITEM_GOLDENGOOSE_PICKUP": "High damage hits also turn nearby enemies into gold.",
+        "ITEM_GOLDENGOOSE_NAME": "omg midas?? from fortnight??",
+        "ITEM_GOLDENGOOSE_PICKUP": "get yo <style=cIsDamage>money</style> up, not yo <style=cDeath>funny</style> up",
         "ITEM_GOLDENGOOSE_DESC": "Hits that deal <style=cIsDamage>more than 400% damage</style> also turn enemies within <style=cIsUtility>5m <style=cStack>(+5m per stack)</style></style> into <style=cIsDamage>gold</style> for <style=cIsUtility>5s</style>. Enemies turned into gold are <style=cIsDamage>immobilized</style> and drop <style=cIsUtility>+50% <style=cStack>(+50% per stack)</style></style> more gold in the form of treasures. Recharges every <style=cIsUtility>10 seconds</style>.",
         "ITEM_GOLDENGOOSE_LORE": "\"So,\" The young Primas V noble said, inspecting the golden statue. \"You mean to tell me this will make me money?\"\r\n\r\nA woman dressed in an impeccably tailored suit and a dazzling smile nods. \"It will bring everything you want to you. You just need to carry it with you, and soon enough you will be laden with gold.\"\r\n\r\n\"Well,\" the noble says, pushing his long sleeves of his robe up as he picks it up. \"It is certainly stylish enough. Will probably fit in a suitcase. If I win nothing at the casino, you can be sure I will find you.\"\r\n\r\n\"Why would I lie to you, about something so important? You know my connections.\"\r\n\r\nThe noble nods, and grins at her. \"It'd sure make them look like a fool. It's a win-win. Honestly, I'm hoping this does fail, then we'll see who is at the top for the event.\" He refocuses on the statue, running his hands over it. \"Now leave. You'll receive payment in your account.\"\r\n\r\nThe woman nods, taking a step away.\r\n\r\nA few days later, breaking news came that the customers at the casino were all rushed to the hospital due to a strange case of gold poisoning.",
 
-        "ITEM_VILECENSER_NAME": "Vile Censer",
-        "ITEM_VILECENSER_PICKUP": "Stunned targets are struck by tendrils of black smoke that chain to nearby enemies.",
+        "ITEM_VILECENSER_NAME": "pepper shaker",
+        "ITEM_VILECENSER_PICKUP": "achoo",
         "ITEM_VILECENSER_DESC": "Gain a <style=cIsDamage>10%</style> chance on hit to <style=cIsDamage>stun</style>. Hitting a <style=cIsDamage>stunned</style> target with a <style=cIsUtility>skill</style> releases tendrils of black smoke, dealing <style=cIsDamage>200% <style=cStack>(+100% per stack)</style></style> damage and <style=cIsDamage>chaining to all other enemies</style> within <style=cIsUtility>10m <style=cStack>(+5m per stack)</style></style>. This effect can repeat.",
         "ITEM_VILECENSER_LORE": "“Inhale. \r\n\r\nExhale. \r\n\r\nInhale. \r\n\r\nExhale. \r\n\r\nRespiring calmly will aid in your enlightenment. Try to exist between life and death and let her breath come forth. Allow her Opinion to become entwined with your soul.” \r\n\r\n-The N'tormat, Chapter I, Stanza 13, Verse 25 \r\n\r\nNear the binding, a handwritten message says, “How can I breathe with all this SMOKE!?”",
 
@@ -354,8 +354,8 @@
         "ITEM_HEXCLEANSECONSUMED_DESC": "A rune with no Cleansing Power left. It cleansed all your Hexes into Hallowed Items.",
         "ITEM_HEXCLEANSECONSUMED_LORE": "<style=cStack>You were not meant to see this.</style>\n\n<style=cDeath>She's coming for you.</style>",
 
-        "ITEM_HEXCURSE_NAME": "Hex of Pain",
-        "ITEM_HEXCURSE_PICKUP": "Reduces your maximum health by <style=cDeath>30%</style>.",
+        "ITEM_HEXCURSE_NAME": "Hex of ONESHOT PROTECTION IS A MYTH ",
+        "ITEM_HEXCURSE_PICKUP": "STOP BEING AFRAID YOU DON'T NEED <style=cDeath>30%</style> HP",
         "ITEM_HEXCURSE_DESC": "Reduces your <style=cIsHealing>maximum health</style> by <style=cDeath>30%</style> <style=cStack>(+30% per stack)</style>.",
         "ITEM_HEXCURSE_LORE": "Ah, Youngling! You have been out so long, I could not help but worry! I can only imagine you have found great scavengings, yes?\r\n\r\nHow lovely! We need not make haste, we have much catching up to do!\r\n\r\n...Is that so? I would be happy to, youngling. Allow me to see.\r\n\r\nHmmm. This shape is quite unlike the previous you have brought me, youngling. It is overwhelming, with much depth. Tell me, where did you find this?\r\n\r\nMomo! What have I told you about stealing? This patch was not an easy scavenging. You do not wish this for yourself, do you?\r\n\r\n...I suppose that is fair. The planet grows increasingly unpredictable. The affected pay tribute to their emotions by shape. However, this shape is incomplete. A smaller fragment of a larger design. Alone, I do not like what this half represents.\r\n\r\nNo, no, youngling! Do not be upset! This shape is quite complex. Unfortunately, I believe we must return it. At least, we should not keep it here. It would be unwise to let its influence linger.\r\n\r\nCome now. I will tell you of the other half along the way.",
 
@@ -364,7 +364,7 @@
         "ITEM_BARRIERENEMIES_DESC": "Killing an enemy grants <style=cIsHealing>100% <style=cStack>(+100% per stack)</style></style> of their maximum health as <style=cIsHealing>temporary barrier</style> to <style=cDeath>all enemies</style> within <style=cIsDamage>30m</style> <style=cStack>(+15m per stack)</style>.",
         "ITEM_BARRIERENEMIES_LORE": "4410; GLASS INJECTION TEST 014\n\n{\n%%%%%%%%%%%%%%%%%%%\n    0; GLASS INJECTION: 31.22%\n    1; CONNECTION ESTABLISHED WITH LOCAL COLLECTIVE\n    2; GLASS OUTPUT EXCEEDS INPUT\n    3; ORIGIN: [NULL]\n    4; ERROR\n%%%%%%%%%%%%%%%%%%%\n}\n\n4411; REPEATING TEST.\n4412; RESULT REPRODUCED.\n4413; ISOLATING SUBJECT FROM COLLECTIVE.\n4414; DISCREPANCY PERSISTS.\n4415; TERMINATING SUBJECT.\n4416; GLASS OUTPUT: 0%\n4417; ERROR RESOLVED.\n\n4418; GLASS FLOW RESTRICTED TO VERIFIED PATHWAYS.\n4419; UNACCOUNTED OUTPUT DISALLOWED.\n4420; DEVIATION DISALLOWED.\n\n4421; SYSTEM STABILITY: 100%\n4422; ADAPTIVE RESPONSE: 0%\n\n4423; GOOD.",
 
-        "ITEM_SHAREITEMS_NAME": "Hex of Greed",
+        "ITEM_SHAREITEMS_NAME": "Hex of void fields but all the time",
         "ITEM_SHAREITEMS_PICKUP": "Copies of your items are <style=cDeath>given to nearby enemies</style>.",
         "ITEM_SHAREITEMS_DESC": "Every <style=cIsUtility>15 seconds</style>, <style=cDeath>share a copy</style> of <style=cIsDamage>1</style> <style=cStack>(+1 per stack)</style> random item from your inventory with <style=cIsUtility>3 enemies</style>.",
         "ITEM_SHAREITEMS_LORE": "They crossed the dark with such terrible patience that we receive them centuries after their deaths, yet still call them living, for light is persuasive and the dead would die again for but one more moment in the mouths and eyes of strangers; the stars would burn themselves to remain bright, and cast that brightness outward where it would continue long after there is nothing left to call a star, spending everything they have so that something of them might still arrive somewhere, someday, and be mistaken for presence.\n\nFor ages, this looks like permanence. However, the star spends its own heat to remain a star, just as the living would spend themselves in little pieces - a breath, a memory, a name, an idea - and call the time \"spent\" because \"lost\" sounded too much like accusation, as though the years went somewhere they were not meant to go, as though they could be recovered, as though something had taken them - but to call it \"stolen\" would be to pretend it was ever once owed.\n\nThe Lady of Balance has never known the difference between spent and lost. She keeps no hours, mourns no waste, forgives no excess; the scales may lean for an age, and an age is more than long enough for the living to mistake delay for permission. But the universe is patient in ways the living are not, and what has lingered beyond its measure has not escaped it merely because it is yet to arrive.",
@@ -413,7 +413,7 @@
         "ITEM_HEXMOUNTAIN_DESC": "The Teleporter receives <style=cDeath>1</style> <style=cStack>(+1 per stack)</style> Shrine of the Mountain effects, <style=cDeath>without the extra rewards</style>.",
         "ITEM_HEXMOUNTAIN_LORE": "<style=cMono>FIELDTECH Image-To-Text Translator (v2.5.10b)\r\n# Awaiting input... done.\r\n# Reading image for text... done.\r\n# Transcribing data... done.\r\n# Translating text... done. [3 exceptions raised]\r\nComplete: outputting results.</style>\r\n\r\nOur elders sing laments of our home, of high hills, glittering caverns, and great beasts our people once hunted. We wrought shining instruments with our breath lost forever, their tunes that once rang of our people's soul left behind and forgotten on our world. Our world that was taken from us. Burned and scoured by those with bleeding eyes. [The hero] saved us, so that we may create new songs on his world, and so we give [the hero] our worship.\r\n\r\nBut our peace is gone. We know not how soon those from beyond the red doors will come for what they seek, our last, precious treasure, and we are already beset on all sides.\r\n\r\nThe [Great Sin], our weakness made manifest, breaks apart [the hero's] monument, bringing something deadly to bear with the power within. Strange whispers plague our souls, and many fall away to darker faiths. Demons, raining from the sky.\r\n\r\nGrieve, elders, for your children. For if they survive against storm, darkness, and the cold light of the moon, our ancient enemies will come for us. Weep for the golden era of [the hero], which we have failed to reclaim. Stoke your flames, and enter into an age of [Strife].\r\n\r\n<style=cMono>Translation Errors: 3\r\n# [The Hero] could not be fully translated.\r\n# [Death] could not be fully translated.\r\n# [Great Sin] could not be fully translated.\r\n# [Colossus] could not be fully translated.\r\n# [Strife] could not be fully translated.</style>",
 
-        "ITEM_LOWERHEALING_NAME": "Hex of Famine",
+        "ITEM_LOWERHEALING_NAME": "Hex of no healing ever again for the rest of your life",
         "ITEM_LOWERHEALING_PICKUP": "Your healing is <style=cDeath>reduced</style>.",
         "ITEM_LOWERHEALING_DESC": "All <style=cIsHealing>healing</style> is reduced by <style=cDeath>40%</style> <style=cStack>(+40% per stack)</style>.",
         "ITEM_LOWERHEALING_LORE": "\"Is it not our divine right to share her Concepts? By way of our losses shall our harvests prosper, for her Glorious Plague shall balance the world as She sees fit! For her Glorious Plague, too, lives on, and to wash oneself of it is to deny and destroy one of her Concepts.\"\r\n\r\n - Unnamed Speaker, Tragedy of Mercury: A History",
@@ -426,8 +426,8 @@
         "WAKE_START_CONTEXT": "Start Wake",
         "WAKE_DEPOSIT_CONTEXT": "Deposit Flowers",
 
-        "EQUIPMENT_SPAWNALTAR_NAME": "Totem of Sacrifice",
-        "EQUIPMENT_SPAWNALTAR_NAME_CONSUMED": "Totem of Sacrifice (Consumed)",
+        "EQUIPMENT_SPAWNALTAR_NAME": "the stupidest god damn thing they have added to this game and it's not even close",
+        "EQUIPMENT_SPAWNALTAR_NAME_CONSUMED": "no like seriously how did this get past playtesting (eated)",
         "EQUIPMENT_SPAWNALTAR_PICKUP": "Place down a totem that <style=cIsHealth>enables friendly fire</style> and absorbs the souls of all characters slain within its radius. After 60s, it produces a reward based on the number of souls absorbed. Consumed on use.",
         "EQUIPMENT_SPAWNALTAR_DESC": "Spawn a temporary <style=cIsDamage>Altar of Sacrifice</style>. Nearby allies receive <style=cIsHealth>friendly fire</style>. After <style=cIsDamage>60s</style>, it distributes rewards that scale based on the number and strength of <style=cIsDamage>enemies and allies killed</style> within its radius. Equipment is <style=cIsUtility>consumed</style> on use.",
         "EQUIPMENT_SPAWNALTAR_LORE": "\"Marcus. I know it's been so long, but I've learned so much since we last spoke. I know we didn't end well on the last call, but this is more important than that, than my posting out here, than anything!\"\r\n\r\n\"I wish you were here right now. So you could see it. The Totem. I hope you can hear it, I finally got it speaking, humming- I noticed it when the lab rats died, and then when the airlock malfunctioned- you have to understand!\"\r\n\r\n\"Do you hear that, Marcus? It wants to talk to you. Tomorrow, you need to go do something kind. Plant a flower for me, Marcus. The way things are shaping here... there are plenty of us. Too many. I can't find the right amount, and I need it to be just right, so that I can remember her face. The Totem will show me, remind me. It's been so long. You'll do that for me, won't you Marcus?\"\r\n\r\n\"Say you'll do it Marcus. Please.\"",
@@ -438,7 +438,7 @@
 
         "SPAWNALTAR_NAME": "Altar of Sacrifice",
 
-        "SHRINE_DREAD_NAME": "N'Kuhana's Endowment",
+        "SHRINE_DREAD_NAME": "N'Kuhana's Endowment (big fucking boobies)",
         "SHRINE_DREAD_DESCRIPTION": "Enhances stage enemies and yields an item as a reward for surviving.",
         "SHRINE_DREAD_CONTEXT": "Pray to N'Kuhana's Endowment",
 
@@ -446,9 +446,9 @@
         "SHRINE_DEATH_DESCRIPTION": "Summons powerful monsters equipped with the items of fallen survivors from previous runs. Defeating them drops an Unorganized Concept and creates a Trial orb.",
         "SHRINE_DEATH_CONTEXT": "Pray to Shrine of Malice",
 
-        "SHRINE_CURSE_NAME": "Shrine of Compulsion",
+        "SHRINE_CURSE_NAME": "Shrine of mario party",
         "SHRINE_CURSE_DESCRIPTION": "Interact to receive a Compulsion. Complete the Compulsion objective to receive a Page of the N'tormat.",
-        "SHRINE_CURSE_CONTEXT": "Accept Compulsion",
+        "SHRINE_CURSE_CONTEXT": "Accept silly quirky game design",
         "SHRINE_CURSE_USE_MESSAGE_2P": "<style=cShrine>You begin to seek patronage of a higher power.</color>",
         "SHRINE_CURSE_USE_MESSAGE": "<style=cShrine>{0} seeks patronage of a higher power.",
 
@@ -463,9 +463,9 @@
         "SHRINE_CURSE_NOTPRESENT_NAME": "Imposing Edifice",
         "SHRINE_CURSE_NOTPRESENT_DESCRIPTION": "It is none of your concern.",
 
-        "SHRINE_CATASTROPHE_NAME": "Shrine of Descent",
-        "SHRINE_CATASTROPHE_CONTEXT": "Pray to Shrine of Descent",
-        "SHRINE_CATASTROPHE_USE_MESSAGE": "<style=cShrine>The soul-binding trial awaits...</color>",
+        "SHRINE_CATASTROPHE_NAME": "Shrine of MORE ITEM (green edition)",
+        "SHRINE_CATASTROPHE_CONTEXT": "GET MORE (hallowed) ITEM",
+        "SHRINE_CATASTROPHE_USE_MESSAGE": "<style=cShrine>yoo i just bought new tp batteries they were rlly cheap for some reason</color>",
         "SHRINE_CATASTROPHE_DESCRIPTION": "When activated by a survivor, the Teleporter will begin the soul-binding trial. This adds a trial to the Teleporter event and grants access to Soulbound Threshold.",
 
         "BAZAAR_CAULDRON_NAME": "Hallowed Shrine",
@@ -474,25 +474,25 @@
         "BAZAAR_BETTERCAULDRON_NAME": "Transcendent Cauldron",
         "BAZAAR_BETTERCAULDRON_CONTEXT": "Purify",
 
-        "STRUGGLE_SKILL_NAME": "Struggle",
-        "STRUGGLE_SKILL_DESCRIPTION": "Struggle inside the Mimic for <style=cIsDamage>100% damage</style>. Can be activated with movement inputs.",
+        "STRUGGLE_SKILL_NAME": "hnnng vore",
+        "STRUGGLE_SKILL_DESCRIPTION": "nooo haha dont wrap your tendrils around me and take my items hahaha dont do thatt",
 
-        "COMMANDO_SPECIAL_ALT2_NAME": "Sabotage",
-        "COMMANDO_SPECIAL_ALT2_DESCRIPTION": "Throw 3 explosives that <style=cIsUtility>attach</style> to surfaces. When <style=cIsDamage>attacked</style>, they <style=cIsDamage>zap</style> enemies for <style=cIsDamage>400% damage</style>.",
+        "COMMANDO_SPECIAL_ALT2_NAME": "bands proc on commando!!",
+        "COMMANDO_SPECIAL_ALT2_DESCRIPTION": "shhhh grenades arent real they dont exist\nthrow 3 sticky bombs that <style=cIsDamage>explode</style> for <style=cIsDamage>400% dmg</style> when <style=cIsDamage>attacked</style>",
 
-        "ENGI_PRIMARY_ALT_NAME": "Laser Cutter",
-        "ENGI_PRIMARY_ALT_DESCRIPTION": "Charge up a heavy laser that deals <style=cIsDamage>270%-630% damage per second</style>, and <style=cIsHealing>heals</style> turrets and drones.",
+        "ENGI_PRIMARY_ALT_NAME": "hyper beam",
+        "ENGI_PRIMARY_ALT_DESCRIPTION": "they made engie playable\ndeals <style=cIsDamage>270%-630% dps</style> \n<style=cIsHealing>heals</style> robots (not soluses though fuck those guys)",
 
         "MAGE_UTILITY_ALT_NAME": "Tectonic Blast",
         "MAGE_UTILITY_ALT_DESCRIPTION": "Fire a spread of shards that deal <style=cIsDamage>8x100% damage</style> and <style=cIsUtility>oil</style> enemies.",
 
-        "TREEBOT_UTILITY_ALT2_NAME": "Proliferation",
+        "TREEBOT_UTILITY_ALT2_NAME": "MY SECRET TECHNIQUE - GARDENING",
         "TREEBOT_UTILITY_ALT2_DESCRIPTION": "<style=cIsHealth>20% HP</style>. Throw a flower that shoots for <style=cIsDamage>200%</style> damage. Use the <style=cIsUtility>Utility skill</style> on the flower to teleport to it, consuming it and healing for <style=cIsHealing>20% HP</style>. Can place up to two.",
-        "TREEBOT_UTILITY_ALT2_2_NAME": "Teleport",
+        "TREEBOT_UTILITY_ALT2_2_NAME": "my children's flesh will sustain me",
         "TREEBOT_UTILITY_ALT2_2_DESCRIPTION": "Teleport to the flower and consume it to heal <style=cIsHealing>20% HP</style>.",
 
-        "CROCO_SPECIAL_ALT_NAME": "Cloying Breath",
-        "CROCO_SPECIAL_ALT_DESCRIPTION": "<style=cIsHealing>Poisonous</style>. Emit a lingering cloud of toxic breath for <style=cIsDamage>240% damage per second</style>.",
+        "CROCO_SPECIAL_ALT_NAME": "buuuurp",
+        "CROCO_SPECIAL_ALT_DESCRIPTION": "bhuaaarp urrpf bhhrp bwuurpp \nlingering <style=cIsHealing>Poison</style> cloud for <style=cIsDamage>240% dps</style>",
 
         "HUNTRESS_SECONDARY_ALT_NAME": "Laser Cyclone",
         "HUNTRESS_SECONDARY_ALT_DESCRIPTION": "Throw a spinning glaive for <style=cIsDamage>400% damage per second</style>. When catching the glaive, repeat the input to juggle the cyclone. Damage increases by <style=cIsDamage>+400%</style> per juggle.",
@@ -554,9 +554,9 @@
         "OPTION_HIDDEN_SKILL_DESCRIPTION": "Setting requires skill(s) which are currently locked.",
 
         "ENFORCER2_BODY_NAME": "Enforcer",
-        "ENFORCER2_BODY_SUBTITLE": "Too Angry to Die",
+        "ENFORCER2_BODY_SUBTITLE": "YOU'RE UP AGAINST THE WALL AND I AM THE FUCKING WALL",
 
-        "ENFORCER2_PASSIVE_NAME": "Big Man",
+        "ENFORCER2_PASSIVE_NAME": "im a chud im a chud im a fat little chud",
         "ENFORCER2_PASSIVE_DESCRIPTION": "<style=cIsUtility>Massive</style>. Enforcer takes <style=cIsUtility>reduced knockback</style>, and <style=cIsDamage>deals 400% damage</style> on high speed impact with the ground.",
 
         "ENFORCER2_PRIMARY_NAME": "Trenchbroom",
@@ -567,8 +567,8 @@
         "ENFORCER2_SECONDARY_DESCRIPTION": "Take a <style=cIsUtility>Defensive Stance</style>. Reactivate to exit your shield, <style=cIsDamage>knocking away</style>, <Style=cIsDamage>stunning</style>, and <style=cIsUtility>parrying</style> enemies for <style=cIsDamage>300% damage</style>.",
         "ENFORCER2_SECONDARY_KEYWORD_DEFENSIVE_STANCE": "<style=cKeywordName>Defensive Stance</style><style=cSub><style=cIsUtility>Blocks all damage from the front</style>.\nSwaps and refreshes <style=cIsDamage>Primary skill</style>.\n<style=cIsHealth>Reduces movement and replaces jumping</style> with a short <style=cIsUtility>lunge</style>.</style>",
         "ENFORCER2_SECONDARY_KEYWORD_PARRY": "<style=cKeywordName>Parrying</style><style=cSub>While swinging, projectiles and hits taken will be <style=cIsDamage>reflected</style> to enemies with <style=cIsDamage>6x increased damage</style>.",
-        "PARRIED_DAMAGE_HITMARKER": "PARRIED!",
-        "ABSORBED_DAMAGE_HITMARKER": "ABSORBED!",
+        "PARRIED_DAMAGE_HITMARKER": "ASTERISK PARRIES IT",
+        "ABSORBED_DAMAGE_HITMARKER": "I THINK A FLY BIT ME",
         "ENFORCER2_UTILITY_NAME": "Shield Tackle",
         "ENFORCER2_UTILITY_DESCRIPTION": "Charge forwards, knocking enemies back for <style=cIsDamage>600% damage per second</style>. <style=cIsUtility>Hold</style> to consume more charges for <style=cIsUtility>increased distance</style>.",
         "ENFORCER2_SPECIAL_NAME": "Rally Point",
@@ -601,21 +601,21 @@
         "OPTION_TOGGLE_ENFORCER2_KINETICCHARGE_HOLD": "<style=cUserSetting>Enforcer Surge Protection Hold Input</style>",
         "OPTION_TOGGLE_ENFORCER2_KINETICCHARGE_HOLD_DESCRIPTION": "Changes Enforcer's Surge Protection to exit shield stance on releasing input instead of two presses.",
 
-        "PLAYER_DEATH_QUOTE_MISSEDPARRY": "{0} failed a skill check.",
-        "PLAYER_DEATH_QUOTE_MISSEDPARRY_2P": "You should've parried!",
+        "PLAYER_DEATH_QUOTE_MISSEDPARRY": "{0} missed their parry's 50 year grace period",
+        "PLAYER_DEATH_QUOTE_MISSEDPARRY_2P": "this guy fucking SUCKS at enforcer",
 
         "PLAYER_DEATH_QUOTE_SACRIFICE": "{0} offered themselves as tribute to N'kuhana.",
         "PLAYER_DEATH_QUOTE_SACRIFICE_2P": "You offered yourself as tribute to N'kuhana.",
 
-        "GAME_RESULT_SACRIFICE_GOOD": "Cherished in N'Kuhana's Embrace",
-        "GAME_RESULT_SACRIFICE_BAD": "All for Nothing",
+        "GAME_RESULT_SACRIFICE_GOOD": "drinks you out of the pit with a big silly straw",
+        "GAME_RESULT_SACRIFICE_BAD": "banana peel slip sfx",
 
         "FLOWERTURRET_BODY_NAME": "Offshoot",
         "FLOWERTURRET_BODY_SUBTITLE": "Organic Turret",
         "FLOWERTURRET_BODY_LORE": "TBD",
 
-        "BIGMUSH_BODY_NAME": "Shruum",
-        "BIGMUSH_BODY_SUBTITLE": "Fungal King",
+        "BIGMUSH_BODY_NAME": "guys what if mario ate the mushroom and got high",
+        "BIGMUSH_BODY_SUBTITLE": "and what if he killed the goomba but they had a family and the family got really sad",
         "BIGMUSH_BODY_LORE": "\"Sylah motions the rest of her squad forward, moving to go forward down the cliff-face path. The cavern is massive, filled and made of strange mushrooms that rise and cover the ceiling. Sylah's not sure if the place is more forest than cavern, but the oppressive, almost stone-like arches of mycelium makes that choice for her.\r\n\r\n\"Sylah,\" Orington asks, \"What is that?\"\r\n\r\nSylah looks down the near sheer cliff-face they are standing on. Below are more mushrooms, like everywhere else. Sparkling, cloudy mushrooms that, if breathed in, would send their brains sky high. She almost reprimands him for the chatter, but then she sees them move.\r\n\r\nGiant mushrooms, easily the size of a two story building, slowly rising and falling as they make their way across the ground. As she tracks them, she realizes many of the mushrooms across the cavern are actually moving as well. Her eyes are drawn to... something. A line of them? Slowly forming a spiral around a central point?\r\n\r\nMovement to her back surprises her, and she realizes Orington is right beside her. She shoots him a cutting glance, but his obvious excitement makes him oblivious. \r\n\r\n\"They are a community of living mushrooms! Maybe something like a siphonophore? Connecting to do something bigger?\"\r\n\r\nAt Sylah's continued stare, Orington continues, \"A siphonophore is-\"\r\n\r\n\"I know what a siphonophore is, Orington, but that isn't something to be excited about. If they are working together, that means the survivor we're tracking is probably-\"\r\n\r\nA strange hum like the deepest fan suddenly overpowers what she's saying, and they both whip their heads towards the spiral.\r\n\r\nA massive funnel of spores rises from the center, slowly spinning upwards towards the ceiling. The fungal spores blot out what light is left coming from the ceiling, but that makes the next moments even more noticeable. The mushrooms making up the walls sparkle even brighter, their bright spots almost swimming as they shimmer with intensity, intensifying as the spores fill up the ceiling. \r\n\r\nOrington and Sylah start and begin scrambling back up the way they came, Sylah yelling orders over the radio. It isn't until they notice the shadows growing darker around them that they realize the giant mushrooms can jump.",
 
         "PLANTED_MUSH_NAME": "Mushling",
@@ -648,7 +648,7 @@
 
 
         "REAPER_BODY_NAME": "Anima Harvester",
-        "REAPER_BODY_SUBTITLE": "Avatar of N'kuhana",
+        "REAPER_BODY_SUBTITLE": "The Hallowed Conceptualizer",
         "REAPER_BODY_LORE": "Rejoice, O Simple Vessels!\r\nThis is My Mercy.\r\n\r\nTo Harvest that Anima which abides within all things living,\r\nTo Return Balance to the scales askew,\r\nTo Shatter not all Vessels with My Presence True,\r\nTo Embrace the Worthy and Take them Home,\r\nI appear unto you in this form.\r\n\r\nThis is My Mercy.\r\nDo not take it lightly.",
 
         "SCONCE_NAME": "Ritual Sconce",
@@ -828,29 +828,29 @@
         "RULE_KEYITEM_OFF_DESCRIPTION": "Disables this key item from appearing in the world.",
 
         "QUEST_COMPULSION_DEALDAMAGE": "Kill {0:N0} Enemies quickly. ({1:N0}/{0:N0})",
-        "QUEST_COMPULSION_DRINKSODAS": "Drink {0:N0} sodas. ({1:N0}/{0:N0})",
+        "QUEST_COMPULSION_DRINKSODAS": "drink a lot of soda (preferably dont piss yourself) ({1:N0}/{0:N0})",
         "QUEST_COMPULSION_HEALTOTALHEALTH": "Heal {0:N0} total health to yourself. ({1:N0}/{0:N0})",
-        "QUEST_COMPULSION_HOLDGOLD": "Hold {0:N0} Gold at once. ({1:N0}/{0:N0})",
+        "QUEST_COMPULSION_HOLDGOLD": "make lods of emone ({1:N0}/{0:N0})",
         "QUEST_COMPULSION_KILLELITES": "Kill {0:N0} Elites. ({1:N0}/{0:N0})",
         "QUEST_COMPULSION_KILLEPICMONSTERS": "Defeat the Massive {0}.",
         "QUEST_COMPULSION_KILLEPICMONSTERS_MULTI": "Defeat {0:N0} Massive Elite Monsters. ({1:N0}/{0:N0})",
-        "QUEST_COMPULSION_KILLEPICMONSTERS_SUBTITLE": "Follower of N'kuhana",
+        "QUEST_COMPULSION_KILLEPICMONSTERS_SUBTITLE": "oouh it's soooo big",
         "QUEST_COMPULSION_KILLTARGET": "Kill the {0:N0} Special Targets. ({1:N0}/{0:N0})",
         "QUEST_COMPULSION_LEMURIANPOLYMORPH": "Survive as a {0}. {1:N0}s",
         "QUEST_COMPULSION_NOHITRUN": "Kill {0:N0} Enemies without getting hit. ({1:N0}/{0:N0})",
         "QUEST_COMPULSION_SCRAPORPRINTITEMS": "Scrap {0:N0} items. ({1:N0}/{0:N0})",
         "QUEST_COMPULSION_REVIVE": "Revive before the timer runs out. {2:N0}s ({1:N0}/{0:N0})",
-        "QUEST_COMPULSION_ORDER": "Sequence {0:N0} Times. ({1:N0}/{0:N0})",
-        "QUEST_COMPULSION_CLOAKEDCHEST": "Open a {0}",
+        "QUEST_COMPULSION_ORDER": "completely fuck your build ({1:N0}/{0:N0})",
+        "QUEST_COMPULSION_CLOAKEDCHEST": "waste 20 minutes searching for a {0}",
         "QUEST_COMPULSION_REACHAREA": "Reach the Area before it changes location! {0:N0}s",
         "QUEST_COMPULSION_METEORSHOWER": "Don't take Damage for {0:N0}s",
         "QUEST_COMPULSION_BLINDPEST": "Exterminate {0:N0} {1}s ({2:N0}/{0:N0})",
         "QUEST_COMPULSION_LOWERENEMYHEALTH": "Leave {0:N0} enemies alive at low health. ({1:N0}/{0:N0})",
 
-        "POLYMORPH_BODY_SUBTITLE": "Polymorphed Survivor",
+        "POLYMORPH_BODY_SUBTITLE": "i turned myself into a lemurian morty",
 
-        "MAP_MIRE_TITLE": "Tenebrous Quagmire",
-        "MAP_MIRE_SUBTITLE": "Sunken Hamlet",
+        "MAP_MIRE_TITLE": "glenebrous Quagmire",
+        "MAP_MIRE_SUBTITLE": "giggity",
         "MAP_MIRE_LORE": "\r\n\r\nQuasit, Hrand, bring the elements closer. The mind, wriggling, the ice, shattered. The only beautiful pieces of what we have left, a bare hint of the delicacies we once had. They are finally speaking.\r\n\r\nWhat? No, silence. Not a meal. Not for us. They will give us coordinates. A gleaming buffet.\r\n\r\nThe instruments can only draw on these wet things by so much. They give off whispers, a hint of the nourishment we- I need. \r\n\r\nYou will have your fill as well. A place such as this attracts many. Debris, drawn to the light of a star. But far tastier.\r\n\r\nI long for the old days. Worlds filled with delicious, explosive energy. Whole species buried, worlds shattered by cosmic inevitabilities. The cataclysms were so often then, cracks in reality overflowing with endless, new delights.\r\n\r\nCreatures were made of more than these things of bones and guts... but everything is wrung out and stolen. So dry, so dry...  \r\n\r\nThe Tower was vibrant then, filled with the stuff to make reality unfold.\r\n\r\nHm? The mind is destabilizing with a fever. Bring the Eye into view and focus the parietal. It is feeling something... substantial. A planet, wreathed in ice and shadow.\r\n\r\nAh... \r\n\r\nAt last.",
 
 
@@ -1078,8 +1078,8 @@
         "INSPECT_TRIALGONG_DESCRIPTION": "When rung, opens a portal to a Trial of N'kuhana.",
         "INSPECT_TRIALGONG_LORE": "N/A",
 
-        "SHRINE_COMBAT_TROOP_USE_MESSAGE": "<style=cShrine>{0} has summoned {1}s led by a {2} to fight.</color>",
-        "SHRINE_COMBAT_TROOP_USE_MESSAGE_2P": "<style=cShrine>You have summoned {1}s led by a {2} to fight.</color>",
+        "SHRINE_COMBAT_TROOP_USE_MESSAGE": "<style=cShrine>{0} has sentenced you to suffer {1}s and a {2}</color>",
+        "SHRINE_COMBAT_TROOP_USE_MESSAGE_2P": "<style=cShrine>oops you gotta fight {1}s and a {2} now</color>",
 
         "HALLOWEDCAULDRON_NAME": "Hallowed Shrine",
         "HALLOWEDCAULDRON_LIFE_CONTEXT": "Embrace Life",
@@ -1102,7 +1102,7 @@
         "NOTIFICATION_KARMA_DECREASED": "The Moon's glow dulls.",
         "NOTIFICATION_KARMA_DECREASED_NOKARMA": "You suddenly feel like things will proceed exactly as you expect.",
 
-        "BROTHER_BODY_KARMA_SUBTITLE": "Apocalypse Aspirant",
+        "BROTHER_BODY_KARMA_SUBTITLE": "he is blue because he wants to fucking kill you",
         "KARMASPIRE_BODY_NAME": "Karmic Spire",
 
         "BROTHERENCOUNTER_PHASE2_WAVE_BLOOD_SUBTITLE": "Augment of Blood",
