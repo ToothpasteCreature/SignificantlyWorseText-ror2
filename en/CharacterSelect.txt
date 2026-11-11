@@ -6,8 +6,8 @@
 		"SURVIVOR_OVERVIEW": "Overview",
 		"SURVIVOR_SKILLS": "Skills",
 		"SURVIVOR_LOADOUT": "Loadout",
-		"CHARACTER_SELECT_READY": "Ready",
-		"CHARACTER_SELECT_LOCKED_IN": "Locked In",
+		"CHARACTER_SELECT_READY": "ready up",
+		"CHARACTER_SELECT_LOCKED_IN": "locked tf in",
 		
 		"LOADOUT_SKILL_PRIMARY": "Primary",
 		"LOADOUT_SKILL_SECONDARY": "Secondary",
