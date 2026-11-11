@@ -13,14 +13,14 @@
 		"BROTHER_DAMAGEDEALT_4": "you know you really shouldn't stand in the way of that next time",
 		"BROTHER_DAMAGEDEALT_5": "eat shit and die",
 		"BROTHER_DAMAGEDEALT_6": "im gonna kill you",
-		"BROTHER_DAMAGEDEALT_7": "Scream, vermin.",
+		"BROTHER_DAMAGEDEALT_7": "im a force a nature",
 		"BROTHER_DAMAGEDEALT_8": "Break beneath me.",
 		"BROTHER_DAMAGEDEALT_9": "Slow.",
 		"BROTHER_DAMAGEDEALT_10": "Your body will shatter.",
 
 		"BROTHER_KILL_1": "rofl",
 		"BROTHER_KILL_2": "you smell bad btw",
-		"BROTHER_KILL_3": "get fucked idiot",
+		"BROTHER_KILL_3": "its not too late to refund yk",
 		"BROTHER_KILL_4": "wow i kill you",
 		"BROTHER_KILL_5": "pointing and laughing at you rn",
 
@@ -32,7 +32,7 @@
 
 		"BROTHER_KILL_MECHANICAL_1": "man you call this shit a robot",
 		"BROTHER_KILL_MECHANICAL_2": "you guys suck at robotics wow",
-		"BROTHER_KILL_MECHANICAL_3": "i smashed one of your toys btw",
+		"BROTHER_KILL_MECHANICAL_3": "broke your stupid crap moron",
 
 
 		"BROTHERHURT_DAMAGEDEALT_1": "BLEED.",
