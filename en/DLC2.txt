@@ -19,7 +19,7 @@
         "DELUSION_MEMORYGAME_HEADER": "what god damn color is this",
 
         "ACHIEVEMENT_MERIDIANEVENTTRIGGERACHIEVEMENT_NAME": "Prime Meridian",
-        "ACHIEVEMENT_MERIDIANEVENTTRIGGERACHIEVEMENT_DESCRIPTION": "Defeated the False Son.",
+        "ACHIEVEMENT_MERIDIANEVENTTRIGGERACHIEVEMENT_DESCRIPTION": "Defeated the the forgotten.",
 
         "ACHIEVEMENT_COMMANDOMERIDIANEVENTTRIGGERACHIEVEMENT_NAME": "peashooter: Cleared Prime Meridian",
         "ACHIEVEMENT_COMMANDOMERIDIANEVENTTRIGGERACHIEVEMENT_DESCRIPTION": "As peashooter, complete the Event on Prime Meridian",
@@ -73,7 +73,7 @@
         "ACHIEVEMENT_ROLYPOLYHITFIVEAIRENEMIES_DESCRIPTION": "As romron gramsay hit five airborne enemies with one instance of Roll.",
 
         "ACHIEVEMENT_UNLOCKFALSESON_NAME": "Purified Freedom",
-        "ACHIEVEMENT_UNLOCKFALSESON_DESCRIPTION": "Purify the Heart of the False Son using the Halcyon Seed.",
+        "ACHIEVEMENT_UNLOCKFALSESON_DESCRIPTION": "Purify the Heart of the the forgotten using the Halcyon Seed.",
 
         "ACHIEVEMENT_ACTIVATECHEF_NAME": "Order Up!",
         "ACHIEVEMENT_ACTIVATECHEF_DESCRIPTION": "Complete the Wok\u2019s recipe in Reformed Altar.",
@@ -88,17 +88,17 @@
         "ARTIFACT_REBIRTH_UNKNOWN_DESCRIPTION": "Return to Meridian to store a greater gift.",
 
         "ACHIEVEMENT_DEFEATFALSESON_NAME": "King of the Hill",
-        "ACHIEVEMENT_DEFEATFALSESON_DESCRIPTION": "Journey to the Prime Meridian and defeat the False Son.",
+        "ACHIEVEMENT_DEFEATFALSESON_DESCRIPTION": "Journey to the Prime Meridian and defeat the the forgotten.",
 
-        "WOK_NAME": "CHEF's Wok",
+        "WOK_NAME": "cookig pot",
         "WOK_CONTEXT_STRING": "omg its just like breath of the wild",
 
         "MAP_VILLAGE_TITLE": "shittered abodes",
         "MAP_VILLAGE_SUBTITLE": "i love children!!!",
         "MAP_VILLAGE_LORE": "<style=cMono>FIELDTECH Image-To-Text Translator (v2.5.10b)\n# Awaiting input...done.\n#Reading image for text... done.\nTranscribing data... done.\nTranslating text... done. [1 exception raised]\nComplete: outputting results.</style>\n\nTell us [world below] of the storms above,\nHow wurms ride the skies to save,\nthat faith is shown in the flash of\nlightning and heresy cowers in cave.\n\nHide from us [hated moon]!\nOur hands bring forth beauty,\nchildren sing of the storm\u2019s bright light,\ndefeated enemy shrinks away bloody!\n\nTribute is given to [him] who saves,\nGolden gifts from the [world below]\n\nImage for Text Errors:\n# Images show stone covered in claw gouges and stained with blood.\nTranslation Errors:\n# [the world] could not be fully translated.",
 
-        "MAP_VILLAGENIGHT_TITLE": "Disturbed Impact",
-        "MAP_VILLAGENIGHT_SUBTITLE": "Meter of the Restless",
+        "MAP_VILLAGENIGHT_TITLE": "disturb ingfact",
+        "MAP_VILLAGENIGHT_SUBTITLE": "DID YOU KNOW GAMING: youve been playing this run for too long",
         "MAP_VILLAGENIGHT_LORE": "<style=cMono>FIELDTECH Image-To-Text Translator (v2.5.10b)\n# Awaiting input...done.\n# Reading image for text...done [5 exceptions raised]\n# Transcribing data...done.\n# Translating text...done. [1 exception raised]\nComplete: outputting results.</style>\n\n[The world] betrayed us.\nOur enemies hound us and covet our blood.\nOur tribute has gutted us.\nWhere is our salvation?\n\nImage for Text Errors:\n# Images show stone covered in claw gouges and stained with blood.\nTranslation Errors:\n# [the world] could not be fully translated.",
 
         "MAP_HABITATFALL_TITLE": "Golden Dieback",
@@ -109,7 +109,7 @@
         "MAP_LEMURIANTEMPLE_SUBTITLE": "drooling all over the floor i mean sorry",
         "MAP_LEMURIANTEMPLE_LORE": "<style=cMono>\nFIELDTECH Image-To-Text Translator (v2.5.10b)\n# Awaiting input... done.\n# Reading image for text... done.\n# Transcribing data... done.\n# Translating text... done. [7 exceptions raised]\nComplete: outputting results.</style>\n\nYou all sit at the blessed Foot of the [Colossus].\n\nWhat is that Elder?\n\nThe [Colossus] is a gift built by the gods to honor [the hero].\n\nWho is [the hero]?\n\nThe Bulwark of the Weak. Savior across the deep darkness. Light against [death]. [The hero] saved all that we can see and all we have are [his].\n\nWhy is the [Colossus] here?\n\nThe [Colossus] is here for it is right to be here. It is right for us to guard it so the [great sin] should not break free.\n\nWhy do we guard it, Elder?\n\nSo that he may love us, as we love him.\n\n<style=cMono>Translation Errors: 4</style>\n# [Colossus] could not be fully translated.\n# [Death] could not be fully translated.\n# [The Hero] could not be fully translated.\n# [Great Sin] could not be fully translated.\n",
 
-        "MAP_HABITAT_TITLE": "donkey kong colonoscopy",
+        "MAP_HABITAT_TITLE": "treeborn colonoscopy",
         "MAP_HABITAT_SUBTITLE": "you WILL get 12 multishops and ALL of their loot is going to fall off the vines",
         "MAP_HABITAT_LORE": "> Automated report 9f6d5d41671c241h13b2339e42mf23deb9 is now available from site record 741c655e2d36c5f6973fd3a36aa0f950.\n> Please refer to record 741c655e2d36c5f6973fd3a36aa0f950 for additional personnel details during your review.\n> Report Type: Transcription\n> - Source : 741c655e2d36c5f6973fd3a36aa0f950 (Personal Suit Recorder)\n> Priority: High\n> Foreign language detected.\n> Operating Machine-generated Transcription > base Vernacular Profile \"Alloy Vulture.\"\n$ Cleaning audio... done.\n$ Asserting translation... error.\n> Several errors detected. Audio generated with error in translation contained.\n> Text-to-speech enabled for foreign elements.\n> Machine-generated Transcription Complete!\n> Report Content:\n\n-- Beginning of Excerpt Flagged for Review --\n\nEmil: \"W-where am I? What\u2019s holding me? Wh-\"\n\nTranslated: \"Stop struggling invader. Your purpose is not realized.\"\n\nEmil: \"Purpose? Flying? What the- Vulture? Put me down put me down put me- AHHHHHH.\"\n\nTranslated: \"Beetles. Listen to your Queen!\"\n\nEmil: \"My legs! I can\u2019t feel my legs! Dropped from the [REDACTED] sky, [REDACTED]!\"\n\nTranslated: \"Do we not watch the great [Colossus]? Do we not serve the wishes of [the hero]?\"\n\nEmil: \"Get the [REDACTED] away from me!\"\n\nTranslated: \"Our purpose is to guard the great [Colossus] and the paradise [the hero] provides. We defend [his] as [he] defends us. It is our beloved duty.\"\n\nEmil: \"Insane planet with insane- are we on a tree?\"\n\nTranslated: \"Yet [he] is gone. Gone as the invaders come again!\"\n\nEmil: \"Great. Looks like a Queen. Smells like a Queen, and I\u2019m surrounded by [REDACTED] worker drones.\"\n\nTranslated: \"He is gone. His Guardians aimless, and we-\"\n\nEmil: \"Bloody hell. Get off my leg! Step on me again and I\u2019ll kill you! Where\u2019s my gun, I\u2019ll-\"\n\nTranslated: \"The invader is a gift to remind you of the threat we face and yours to handle as you wish.\"\n\nEmil: \"No! Wait. Get away from me! No no NO-\"\n\n-- End of Recording --\n\n-- End of Excerpt Flagged for Review --\n\n<style=cMono>Local audio transcriptions complete.\n\nTranslation Errors: 2</style>\n# [Colossus] could not be fully translated.\n# [The Hero] could not be fully translated.\n",
 
@@ -118,7 +118,7 @@
         "MAP_MERIDIAN_LORE": "Brother, raise your melancholic head. She has left, but She shall return. Witness what I shall give to you and Her.\n\n... they are the start of three great works. A gift for us all! I see your sadness, brother. Your inattention hurts the Designs we build. I build for us not only a sign of our friendship, but tools for making our weight easier.\n\nYes! Three great statues built in our images to house our respective strengths. The first, to catalogue my great Designs. Yours to hold and magnify your talent with Soul. The last for Her so that She - \n\nNo. She does not know I am building this great gift for us. When She returns, we will celebrate and you will not be so - \n\n...\n\nYour point is made. We will decide together when to reveal Her statue and you will have say over where it will reside. I will even allow you to affect its Design.\n\nIf it will have you look more kindly upon our work, I will even let you hold onto my Designs so that you may take time in creating these Constructs. Remember, brother, despite your soft heart, they must be tools and shields for us to survive. They are nothing more than that.\n\nGood. Then go and bring our great works to life! I will inform you when this gift is complete.",
 
         "MAP_LAKES_TITLE": "verdant balls",
-        "MAP_LAKES_SUBTITLE": "i dont think those are supposed to be glowing but ok",
+        "MAP_LAKES_SUBTITLE": "i dont think those are supposed to be green but ok",
         "MAP_LAKES_LORE": "<style=cMono>\nWelcome to DataScraper (v3.5.16 \u2013 beta branch)\n$ Scraping memory... done.\n$ Resolving... done.\n$ Combing for relevant data... done.\nComplete!\nOutputting local audio transcriptions...\n</style>\n\nDay 02\nAll day Garret curses about losing our ship, our way, our cargo. From what I\u2019ve heard about this planet, it could have been worse. We\u2019re surviving on plants our xenobiologist would have loved to study. Some sort of High Court signal is surveying this hell hole. Seems like a stretch, but I hope they look this way and are feeling generous.\nThrough trial and error, we discovered the most edible plant - they\u2019re disgusting raw, but after a sear they\u2019re tolerable, and their smell - a smell so sweet and powerful it saturates our filters. Reminds me of strawberries. Warmed in the sun.\nAt least we\u2019re alive.\n\nDay 03\nMy mouth tastes bitter unless I\u2019m eating. Garret reports the same, his paranoia grows daily. He swears he sees the sap quiver and bounce every time we hack open these plants.\n\nDay 07\nTo be honest I\u2019m starting to worry.\nMore exhausted each day.\nTerrible stomach aches at night.\nOf course we suspect the food but what other choice do we have?\nMy skin has an orange tint to it... maybe it\u2019s my vision.\nAll I smell lately is the sweetness of the sap.\nI pray I\u2019m not getting sick.\nI\u2019d hate for Garret to be right about something.\n\nDay 08\nWe\u2019re alive.\nI\u2019m filled with hope.\nA High Court scout... or did she say seeker? Whatever she is, found our camp. A bit sharp around the edges but gave us some food. I savored every bite. She said it\u2019s not safe to travel at night and will lead us out of this mess in the morning.\nUnderground.\nWith real food to eat.\n\nKelvin out.",
 
         "MAP_LAKESNIGHT_TITLE": "viscous balls",
@@ -137,8 +137,8 @@
         "MAP_ARTIFACTWORLD03_SUBTITLE": "Wisp Research",
         "MAP_ARTIFACTWORLD03_LORE": "I will not hesitate to craft another cage to contain these pests you allow to play with our grand design.\nSurely you notice these...\"creatures\" touch soul. Soul. And still, you grant them such freedom.\nWhy?\nDo they remind you of home? Of what we once shared together in our gardens?\nYou don\u2019t still cast blame upon me so easily...do you?\nAll because of that day. Those worthless creatures. Those worms.\nIs that it?\nAre these creatures your new worms? Is this how you mean things to be? Do you love them more than me, brother?\nANSWER ME!",
 
-        "MAP_HELMINTHROOST_TITLE": "Helminth Hatchery",
-        "MAP_HELMINTHROOST_SUBTITLE": "A Brother\u2019s Respite",
+        "MAP_HELMINTHROOST_TITLE": "terraria underworld",
+        "MAP_HELMINTHROOST_SUBTITLE": "why is this place so red",
         "MAP_HELMINTHROOST_LORE": "Massive shining coils shift, red as Mercury blossoms, revealing a sphere of bright molten obsidian glowing inside a bowl of red stone.\nFour stories up a large dark hand reaches through the glassless window, pets the coils and brings the bowl inside.\nStrange tools of silver line the walls alongside endless artifacts freely given, intricately carved, and tenderly loved. His tribute.\nHe pulls an oblong clay jar down, a seal bearing his likeness breaks under his grip with a hiss.\nInside the jar, crackling starseed thorns and dried kifruit skins, their earthy scent fills the smoldering workshop.\nFor the morning star, he reaches into the molten obsidian and pierces the bowl with a starseed thorn from within. A thorn for each fate changed.\nMany thorns and fates later, he tap tap taps a silver tool against the stone of the workshop.\nRed coils in the window shift again, a massive burning eye curiously takes in the room, then it\u2019s open mouth appears in the window, the sudden heat wave sending a song through a ceiling of silver chimes.\nHe places the spiked obsidian ball inside and pats it\u2019s muzzle twice. The gilded wurm is to take the mace to the surface. The obsidian cools in a shaft of putrid moonlight, collecting lunar rage and loneliness.\nFor the handle, he wraps a rod of silver in dried kifruit skins and an eon of freedom, lost to gravity wells long ago.\nFinally, he seals the obsidian weapon with a golden T emblem.\nHis gift. No, his apology.",
 
         "CHEF_BODY_NAME": "romron gramsay",
@@ -158,33 +158,33 @@
         "CHEF_PRIMARY_BOOST_DESCRIPTION": "<style=cKeywordName>Boost</style><style=cSub>Boosting Dice throws cleavers in all directions, dealing <style=cIsDamage>400% damage</style>.",
         "CHEF_PRIMARY_BOOST_DESCRIPTION_SKILL": "Throws cleavers in all directions, dealing <style=cIsDamage>400% damage</style>.",
 
-        "CHEF_SECONDARY_NAME": "Sear",
+        "CHEF_SECONDARY_NAME": "flamethrower if it was good",
         "CHEF_SECONDARY_DESCRIPTION": "<style=cIsDamage>Ignite</style>. Scorch nearby enemies for <style=cIsDamage>600% damage</style>.",
         "CHEF_SECONDARY_BOOST_DESCRIPTION": "<style=cKeywordName>Boost</style><style=cSub>Boosting Sear scorches nearby enemies and fires three flaming oil blobs dealing <style=cIsDamage>700% damage</style>. Flaming oil blobs leave <style=cIsDamage>ignited oil pools</style> on impact.",
         "CHEF_SECONDARY_BOOST_DESCRIPTION_SKILL": "Scorch nearby enemies and fire three fireballs dealing <style=cIsDamage>700% damage</style>. Flaming oil blobs leave ignited oil pools on impact.",
 
-        "CHEF_SECONDARY_ALT_NAME": "Ice Box",
+        "CHEF_SECONDARY_ALT_NAME": "ice- you want ice? ice is just a MYTH",
         "CHEF_SECONDARY_ALT_DESCRIPTION": "<style=cIsUtility>Frost</style>. Launch ice cubes for <style=cIsDamage>3x150% damage</style>.",
         "CHEF_SECONDARY_ALT_BOOST_DESCRIPTION": "<style=cKeywordName>Boost</style><style=cSub><style=cIsUtility>Freezing</style>. Boosting Ice Box launches 1 large ice cube for <style=cIsDamage>1500% damage</style>.",
         "CHEF_SECONDARY_ALT_BOOST_DESCRIPTION_SKILL": "<style=cSub><style=cIsUtility>Freezing</style>. Launches 1 large ice cube for <style=cIsDamage>1500% damage</style>.",
 
-        "CHEF_UTILITY_NAME": "Roll",
+        "CHEF_UTILITY_NAME": "DUI? how about you die",
         "CHEF_UTILITY_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Charge the rolling pin to <style=cIsUtility>speed</style> forward, dealing <style=cIsDamage>300%-600% damage</style>.",
         "CHEF_UTILITY_BOOST_DESCRIPTION": "<style=cKeywordName>Boost</style><style=cSub>Boosting Roll applies <style=cIsHealth>bleed</style> per second dealing <style=cIsDamage>200% damage</style> to all nearby enemies.",
         "CHEF_UTILITY_BOOST_DESCRIPTION_SKILL": "<style=cIsHealth>Bleeding.</style> Speed forward while spinning cutlery to deal an additional <style=cIsDamage>200%</style> damage to all nearby enemies.",
 
-        "CHEF_UTILITY_ALT_NAME": "Oil Spill",
+        "CHEF_UTILITY_ALT_NAME": "sorry i leaked a little",
         "CHEF_UTILITY_ALT_DESCRIPTION": "Twirl upwards then slam down, exploding with <style=cIsUtility>oil</style> for <style=cIsDamage>200% damage</style>. <style=cIsDamage>Launch again</style> by reactivating this ability before landing, up to <style=cIsDamage>4</style> total.",
         "CHEF_UTILITY_ALT_BOOST_DESCRIPTION": "<style=cKeywordName>Boost</style><style=cSub>Boosting Oil Spill spews ignited or frozen <style=cIsUtility>oil</style>.",
         "CHEF_UTILITY_ALT_BOOST_DESCRIPTION_SKILL": "Twirl upwards then slam down, exploding with <style=cIsUtility>oil</style> for <style=cIsDamage>200% damage</style>. <style=cIsDamage>Launch again</style> by reactivating this ability before landing, up to <style=cIsDamage>4</style> total.",
 
-        "CHEF_SPECIAL_NAME": "Glaze",
+        "CHEF_SPECIAL_NAME": "throws up on you bleeerghh",
         "CHEF_SPECIAL_DESCRIPTION": "Fire globs of <style=cIsUtility>oil</style> in quick succession, dealing <style=cIsDamage>7x250% damage</style>.",
 
-        "CHEF_SPECIAL_ALT1_NAME": "Yes, CHEF!",
+        "CHEF_SPECIAL_ALT1_NAME": "power charge xc3",
         "CHEF_SPECIAL_ALT1_DESCRIPTION": "Emit a blast attack dealing <style=cIsDamage>400%</style> damage, inflicting <style=cIsDamage>Ignite</style> or <style=cIsUtility>Frost</style>. <style=cIsUtility>Boosts</style> the next Skill used.",
 
-        "KEYWORD_REVIVE": "<style=cKeywordName>Revive</style><style=cSub>This skill revives one or more dead Survivors.</style>",
+        "KEYWORD_REVIVE": "<style=cKeywordName>Revive</style><style=cSub>This skill is a free Dio's for no fucking reason</style>",
         "KEYWORD_LOWHEALTHPROTECTION": "<style=cKeywordName>Saving Grace</style><style=cSub>All living Survivors gain +7% to all stats. <style=cIsDamage>When you die</style> Saving Grace is consumed and you <style=cIsHealing>revive</style>.",
         "KEYWORD_GROWTH": "<style=cKeywordName>Growth</style><style=cSub>Enhances the skill by gaining bonus health from items or other sources. Does not benefit from leveling up.</style>",
         "KEYWORD_LUNARRUIN": "<style=cKeywordName>Lunar Ruin</style><style=cSub>Enemies hit take <style=cIsDamage>+10%</style> more damage from all sources and reduces healing for <style=cIsUtility>5 seconds.</style> <i>Lunar Ruin can stack.</i></style>",
@@ -204,10 +204,10 @@
         "SEEKER_DESCRIPTION": "As a meditative mid-range brawler, artificer 2 utilizes powerful healing to sustain herself and her team.<style=cSub>\r\n\r\n< ! > Every third Spirit Punch in a row fires a high-damaging explosive burst of Soul. Flow between targets while holding the primary to deal maximum damage.\r\n\r\n< ! > artificer 2\u2019s Unseen Hand heals you for every enemy hit. Prioritize enemy groups to maximize healing.\r\n\r\n< ! > Use Sojourn to escape dangerous situations, rush to teammates, or enter the fray. Use Sojourn again to end your flight to deal damage to enemies. While in Sojourn, your health quickly depletes, so use it wisely.\r\n\r\n< ! > Meditate places you in a vulnerable state, but increases ability damage, healing, and more for each successive completion. Positioning and timing are key to empowering you and your teammates. Reach the final gate to revive fallen allies and bless living ones.\r\n<\/style>\r\n",
         "SEEKER_BODY_LORE": "(\\                                                       \/)\n(--)--------------------------------------(--)\n(\\                                                       \/)\nA new decree.\nSeeker_0222, Diviner of House Beyond, the Herald of your House neglects to report on Zone05_57820.\nThe Herald reported unconfirmed sightings of Blight on the surface.\nWe would see these hysterical rumors extinguished.\nOr perhaps you did not Sanitize the Blight correctly the first time, on Zone04_39666?\nYou know what must be done if Paradise evades our grasp again.\nRecover the Herald only if it does not interfere with your decree and return for reconditioning, report in hand.\nWe look forward to your success superseding their failure.\n\nThird Wing\nHouse Beyond",
 
-        "SEEKER_PASSIVE_NAME": "Inner Strength",
+        "SEEKER_PASSIVE_NAME": "free stats yay!",
         "SEEKER_PASSIVE_DESCRIPTION": "Abilities are enhanced with each <style=cIsUtility>Tranquility to a maximum of 7</style>.",
 
-        "SEEKER_PRIMARY_NAME": "Spirit Punch",
+        "SEEKER_PRIMARY_NAME": "duck this one",
         "SEEKER_PRIMARY_DESCRIPTION": "Fire <style=cIsDamage>piercing</style> disembodied fists at enemies for <style=cIsDamage>250% damage</style>. Every 3rd hit explodes dealing <style=cIsDamage>350% damage</style>.",
         "SEEKER_PRIMARY_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Every stack of Tranquility increases the damage of Spirit Punch's third hit by <style=cIsDamage>50%</style>.",
 
@@ -219,24 +219,24 @@
         "chef": null,
         "SEEKER_SECONDARY_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Increases the healing of Unseen Hand by <style=cIsHealing>4%</style> for every Tranquility.",
 
-        "SEEKER_SECONDARY_ALT1_NAME": "Soul Spiral",
+        "SEEKER_SECONDARY_ALT1_NAME": "wynncraft lightbender headass",
         "SEEKER_SECONDARY_ALT1_DESCRIPTION": "Manifest spiraling orbs dealing <style=cIsDamage>150% damage</style>. Hits grant <style=cIsHealing>temporary barrier</style>. <style=cIsUtility>Exhilarate</style> on activation at max orbs.",
         "SEEKER_SECONDARY_ALT1_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Every Tranquility increases Soul Spiral's orbs lifetime by <style=cIsDamage>18%</style> and <style=cIsHealing>temporary barrier</style> granted by hitting enemies.",
 
-        "SEEKER_UTILITY_NAME": "Sojourn",
+        "SEEKER_UTILITY_NAME": "nine eleven",
         "SEEKER_UTILITY_DESCRIPTION": "<style=cIsDamage>Stunning</style>. Take <style=cIsUtility>flight</style> and explode, dealing <style=cIsDamage>500% damage</style>. Exchange <style=cIsHealth>25% health</style> per second for <style=cIsDamage>increased damage</style>.",
         "SEEKER_UTILITY_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Each Tranquility increases Sojourn's explosion radius by <style=cIsUtility>0.5m</style>.",
 
-        "SEEKER_UTILITY_ALT1_NAME": "Reprieve",
+        "SEEKER_UTILITY_ALT1_NAME": "spleeush",
         "SEEKER_UTILITY_ALT1_DESCRIPTION": "Gain <style=cIsHealing>barrier</style> and take <style=cIsUtility>flight</style>. Total <style=cIsHealing>barrier</style> loss or impact creates a <style=cIsUtility>cyclone</style>, <style=cIsHealing>healing</style> allies, and dealing <style=cIsDamage>200% damage</style> per second.",
         "SEEKER_UTILITY_ALT1_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Every Tranquility increases Reprieve's <style=cIsUtility>cyclone</style> duration by <style=cIsUtility>0.5s</style>.",
 
-        "SEEKER_SPECIAL_NAME": "Meditate",
+        "SEEKER_SPECIAL_NAME": "lepton daisy if it was good",
         "SEEKER_SPECIAL_DESCRIPTION": "<style=cIsUtility>Focus your mind</style> to explode <style=cIsDamage>300% damage</style>, <style=cIsHealing>heal nearby allies</style>, and gain <style=cIsUtility>Tranquility</style>. Reaching max Tranquility <style=cIsHealing>Revives</style> and grants <style=cIsHealing>Saving Grace</style>.",
         "SEEKER_SPECIAL_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Every Tranquility increases Meditate's healing by <style=cIsHealing>4% of maximum health</style>, damage by <style=cIsDamage>200%</style>, and increases in radius.",
         "SEEKER_SPECIAL_MEDITATE_KEYWORD": "<style=cKeywordName>Focus</style><style=cSub>Complete timed sequences to activate a skill effect. Failing increases this ability's cooldown.",
 
-        "SEEKER_SPECIAL_ALT1_NAME": "Palm Blast",
+        "SEEKER_SPECIAL_ALT1_NAME": "vibe check",
         "SEEKER_SPECIAL_ALT1_DESCRIPTION": "<style=cIsUtility>Charge</style> a <style=cIsDamage>piercing</style>, spectral hand that deals <style=cIsDamage>400%-700% damage</style> and <style=cIsHealing>heals</style> allies. <style=cIsDamage>Multihit</style> three characters to gain <style=cIsUtility>Tranquility</style> and <style=cIsHealing>barrier</style>.",
         "SEEKER_SPECIAL_ALT1_TRANQUILITY_DESCRIPTION": "<style=cKeywordName>Tranquility</style><style=cSub>Every Tranquility increases the size of Palm Blast's spectral hand by <style=cIsUtility>15%</style>, damage by <style=cIsDamage>250%</style>, and <style=cIsHealing>healing</style> done to allies.",
 
@@ -247,10 +247,10 @@
         "OPTION_SEEKER_SOJOURNTOGGLE_DESCRIPTION": "Enable and disable artificer 2's Sojourn and Reprieve abilities by tapping the Utility Skill button once instead of holding it.",
 
         "FALSESON_BODY_NAME": "the forgotten",
-        "FALSESONBOSS_BODY_NAME": "yoo hi providence",
+        "FALSESONBOSS_BODY_NAME": "instantly shredding your drones world champion",
         "FALSESON_BODY_SUBTITLE": "carrying a big stick rn",
-        "FALSESON_BOSS_BODY_SUBTITLE": "Eye of the Storm",
-        "FALSESON_DESCRIPTION": "The False Son is a slow but stalwart close-range warrior. With extreme health and defense, False Son can weather any storm. Use False Son\u2019s durability to stay in the fray and capitalize on his slow but deadly skills.<style=cSub>\r\n\r\n< ! > False son closes the distance on enemies with dashes to deliver destruction with his lunar club. Charge the club swing for an explosive slam.\r\n\r\n< ! > Laser of the Father and Club of the Forsaken slowly charge for high damage. Health items increase your Lunar Spike count, increasing your power. Try building into items that increase your health and durability.\r\n\r\n< ! > For each Lunar Spike you have you gain attack speed and armor and using the Lunar Spikes depletes those bonuses. The more depleted slots of Lunar Spikes you have, the quicker you will move and heal.\r\n\r\n< ! > Utilize the long-range potential of your laser and lunar spikes to pick off out-of-reach aerial enemies.\r\n<\/style>\r\n",
+        "FALSESON_BOSS_BODY_SUBTITLE": "the Seeked of the Storm",
+        "FALSESON_DESCRIPTION": "The the forgotten is a slow but stalwart close-range warrior. With extreme health and defense, the forgotten can weather any storm. Use the forgotten\u2019s durability to stay in the fray and capitalize on his slow but deadly skills.<style=cSub>\r\n\r\n< ! > False son closes the distance on enemies with dashes to deliver destruction with his lunar club. Charge the club swing for an explosive slam.\r\n\r\n< ! > Laser of the Father and Club of the Forsaken slowly charge for high damage. Health items increase your Lunar Spike count, increasing your power. Try building into items that increase your health and durability.\r\n\r\n< ! > For each Lunar Spike you have you gain attack speed and armor and using the Lunar Spikes depletes those bonuses. The more depleted slots of Lunar Spikes you have, the quicker you will move and heal.\r\n\r\n< ! > Utilize the long-range potential of your laser and lunar spikes to pick off out-of-reach aerial enemies.\r\n<\/style>\r\n",
         "FALSESON_BODY_LORE": "Songs turned to screams,\nClaws which carved my body tore it apart.\nNow the Moon\u2019s light is heavy with his howling hatred,\nand the silence haunts me.\nMade in his image, I was to be a guardian.\nA replacement, now a disappointment.\nThey shudder at my approach.\nMy path laid empty.\n\nWhere they desired divinity, I found contempt.\nWho they called unclean, I call unchained.\nTones of gold and stone open to me,\nTrails without shards and curses.\n\nWith my eye I see a new way.\nWith my club I create a new path.",
 
         "FALSESON_PASSIVE_NAME": "Lunar Tampering",
@@ -271,10 +271,10 @@
         "FALSESON_UTILITY_ALT1_NAME": "Meridian's Will",
         "FALSESON_UTILITY_ALT1_DESCRIPTION": "<style=cIsDamage>Stunning</style>. <style=cIsUtility>Teleport</style> and explode for <style=cIsDamage>150% damage</style> and <style=cIsUtility>pull</style> enemies. Triple your passive's benefits for <style=cIsUtility>4s</style>. <style=cIsHealing>Growth</style> increases this duration.",
 
-        "FALSESON_SPECIAL_NAME": "Laser of the Father",
-        "FALSESON_SPECIAL_DESCRIPTION": "<style=cIsUtility>Charge</style> a rapidly hitting laser dealing <style=cIsDamage>240%-1400% damage</style> for <style=cIsUtility>4s</style> and <style=cIsUtility>refill</style> Lunar Spikes. Increases in <style=cIsUtility>duration</style> through <style=cIsHealing>Growth</style>.",
+        "FALSESON_SPECIAL_NAME": "homophobic tiktok laser eye edit",
+        "FALSESON_SPECIAL_DESCRIPTION": "god hates lemurians. lemurians burn hell. lemurians die, god laughs.\n<style=cIsUtility>Charge</style> a rapidly hitting laser dealing <style=cIsDamage>240%-1400% damage</style> for <style=cIsUtility>4s</style> and <style=cIsUtility>refill</style> Lunar Spikes. Increases in <style=cIsUtility>duration</style> through <style=cIsHealing>Growth</style>.",
 
-        "FALSESON_SPECIAL_ALT1_NAME": "Laser Burst",
+        "FALSESON_SPECIAL_ALT1_NAME": "biden blast",
         "FALSESON_SPECIAL_ALT1_DESCRIPTION": "Fire a piercing laser for <style=cIsDamage>1250% damage</style>, refilling <style=cIsUtility>50%</style> Lunar Spikes. Increases in stock by <style=cIsHealing>Growth</style>.",
 
         "FALSESON_OUTRO_FLAVOR": "..and so he left, drawn to a call in the darkness.",
@@ -305,7 +305,7 @@
         "ITEM_KNOCKBACKHITENEMIES_LORE": "Order: Breaching Fin\nEstimated Delivery: 01\/01\/2057\nShipping method: Biological\nShipping Address: Fort Joseph, UES B1053 Port Station, Boron System\nShipping details:\n\nImpressed? I know you are.\nWe finally cleared our grid, but man did it put up a fight. We lost James and Kight. This fin knocked them off the U.E.S.S. [REDACTED] with so much force we heard them hit the water in pieces. At least it was quick.\n\nThere isn\u2019t a speck of land on this blasted planet but now it\u2019s safe enough to build our first dock. It\u2019s not land, but it\u2019s a step up from this flotsam. I won\u2019t miss giant sea creatures bumping the ship in the night, or losing my lunch to this damn swaying.\n\nGet us a good commission for it will ya? And send down some playing cards, the silence is killing us. \n\n- Private Bowen",
 
         "ITEM_ATTACKSPEEDPERNEARBYALLYORENEMY_NAME": "halloween lantern",
-        "ITEM_ATTACKSPEEDPERNEARBYALLYORENEMY_PICKUP": "Increases your attack speed for every nearby enemy and ally.",
+        "ITEM_ATTACKSPEEDPERNEARBYALLYORENEMY_PICKUP": "Increases your razorblade candy for every nearby enemy and ally.",
         "ITEM_ATTACKSPEEDPERNEARBYALLYORENEMY_DESC": "Increase your <style=cIsDamage>attack speed</style> by <style=cIsDamage>10%</style> <style=cStack>(+3.5 per stack)</style> for up to <style=cIsUtility>3</style> <style=cStack>(+1 per stack)</style> enemies and allies within <style=cIsUtility>20</style> meters.",
         "ITEM_ATTACKSPEEDPERNEARBYALLYORENEMY_LORE": "To proceed with construction of our [hope], we must master the powers of this temple, and so, regrettably-\nONE DESECRATED FRAGMENT, STOLEN FROM A HOLY STRUCTURE.\nTo proceed is already difficult, I wish you wouldn\u2019t say it like that-\nI WATCH THE SLOW LEMURIAN CARVE PROTECTIVE RUNES.\n-…I see you\u2019ll be testing my patience in this collaboration.\nLET US BEGIN.\nI see a fine light, but we\u2019re hoping to use it for strength when we\u2019re wound-\nA PALM OF AMETHYST DUST – THIS IS FOR STRENGTH.\nA PINCH OF [powder] – THIS IS FOR S-.\nStop stop! We are not ready to introduce Soul yet, it\u2019s unstable. We want something to make us, and our [hope], stronger.\nHOW WILL IT MAKE FRIENDS WITHOUT SOUL, ELDER ONE?",
 
@@ -372,7 +372,7 @@
         "ITEM_EXTRASTATSONLEVELUP_PICKUP": "become stronger",
         "ITEM_EXTRASTATSONLEVELUP_DESC": "Grows by gaining experience, storing <style=cIsUtility>20%</style> <style=cStack>(+5% per stack)</style> bonus stats (<style=cIsHealing>health</style>, <style=cIsHealing>regeneration</style>, and <style=cIsDamage>damage</style>). On removal, gain all stored stats.",
         "ITEM_EXTRASTATSONLEVELUP_LORE": "\"Shipping details\nOrder: --\nEstimated Delivery: --\nShipping method: --\n\nShipping address:\n--\n\nShipping details:\n--AUTO-TRANSCRIPTION FROM UES [Redacted] --\/\/\n\"That isn\u2019t regulation, Garcia.\" \n\"tHat iSn\u2019t rEguLation, gArCia…\" \n\"…\" \n\"Well that\u2019s what you sound like. Fine, take \u2019em.\" \n\"Just until you finish your make-up marksman-\"\n\"-I shoot fine.\"\n\"Your 24 isn\u2019t gonna cut it in this hellscape. The Vultures run for our convoy spooked him good, the Captain wants 30\u2019s out of all of us this week. Good luck.\"\n\"30\u2019s?? I need a Maple Malt after this…\"\n[40 minutes later]\n\"Unbelievable. Don\u2019t look so smug, I\u2019m sure it was a fluke.\"\n\"C\u2019mon Thompson, a 38? A 38 is no fluke. I\u2019m unstoppable with a rifle.\"\n\"Yeah, yeah. You can have this back now.\"\n\"Keep it, I feel amazing.\"",
-        "EXTRASTATSONLEVELUP_HEALTH_STAT": "+ moustache",
+        "EXTRASTATSONLEVELUP_HEALTH_STAT": "+ stache",
         "EXTRASTATSONLEVELUP_HEALTHREGENERATION_STAT": "+ regen",
         "EXTRASTATSONLEVELUP_DAMAGE_STAT": "+ dmg",
         "EXTRASTATSONLEVELUP_ENLIGHTENED": "BECAME STRONGER",
@@ -383,7 +383,7 @@
         "ITEM_METEORATTACKONHIGHDAMAGE_LORE": "Order: \"Insurance Nightmare\"\nEstimated Delivery: 06\/28\/2027\nShipping method: High Priority\n\nShipping Address: Merchants Guild, Neon Nexus, Mercury\nShipping details:\n\nAppraisal complete.\nFull report and certificate of Kosthenticity attached.\n\nIf its user starts a fight, this wretched thing will certainly finish it.\n\nRecommendations:\n\nDon\u2019t touch the pale yellow runes, ever, for any reason.\nDon\u2019t sleep near it.\nDon\u2019t make eye contact with it.\nDon\u2019t use it indoors.\n\nI\u2019ve included the bill for my roof.\n\n- Kosta of Crumbling Tower",
 
         "ITEM_ONLEVELUPFREEUNLOCK_NAME": "hrrm today i will hit the level cap",
-        "ITEM_ONLEVELUPFREEUNLOCK_PICKUP": "get shit for free for killing people and also <color=#FF7F7F> your bank account is empty</color>",
+        "ITEM_ONLEVELUPFREEUNLOCK_PICKUP": "get shit for free for killing people but also <color=#FF7F7F> your bank account is empty</color>",
         "ITEM_ONLEVELUPFREEUNLOCK_DESC": "<style=cIsUtility>On level up</style> gain a free unlock for the next purchase <style=cStack>(+1 per stack)</style> but all gold is converted to experience. Anything that costs gold is <style=cIsUtility>increased by 50%</style> <style=cStack>(+50% per stack)</style>.",
         "ITEM_ONLEVELUPFREEUNLOCK_LORE": "Day 1\nThe chilly coin in my pocket hums softly, drawing me off path. A pulsing blue pod is lodged in the earth here, covered in morning frost. Even through gloves, the coin burns colder than ever. I\u2019m terrified and compelled to place the coin on the pod, it snaps open.\nA dark gel oozes out, carrying a round device and tablet to my feet. The device activates and pulls the tablet with it into a hover. A construct? I know I should have shot it down, but I… feel it wants to help me get stronger.\nI touch the construct. Thousands of years push their way into my skull, the mounting pressure makes me howl in a voice I don\u2019t recognize, then nothing.\n---\nA pounding migraine wakes me. Midday. I feel moss under me and shield my eyes against the canopy light. I am closer to RallyPoint, but how? Disfigured beetles lay dead in a radius around me, faces distorted, limbs bent. I vomit. The construct hovers protectively nearby. How did it do this?\nDay 2\nStudying the tablet brings no comfort. I worry about Huang. The isolation grates on me, I\u2019m exhausted, hungry, angry. I finally found a supply chest but the construct absorbed my coin before I could use it. This lowly thing thinks it knows best. I don\u2019t know what came over me but I attacked the construct. It didn\u2019t seem to mind but that only made me feel worse. I am not myself.\nDay 3\nThe full moon\u2019s light makes me itch. It pursues me from it\u2019s dark sea, sluggish and unnerving. I stare into it, nearly falling into it\u2019s gaze. For hours I run terrified in the wrong direction. I cannot face it, not how I am. Under a deep canopy I draw familiar power from the construct. Inky feathers break through the skin of my arms and hands. I black out.\nDay 4\nThat blasted thing isn\u2019t cheap, the construct is obsessed with coin, but I can\u2019t argue with the results. The Lemurians barely put up a fight, obliterated, distracted by their song.\nThe last one drops from my talons.\nThey never should have been here in the first place. Where they are blind, I see the shapes of things and truly know them. I must reach…someone, somewhere. I cannot quite remember.\nIt is day\nRatssratsRATS gther n your shadow brother. Scrub, scrub it clean. Yoo LOom\novr the trees, for me?\nI\u2019m\nontheWAy",
 
@@ -422,7 +422,7 @@
         "LEMURIAN_EGG_POPUP_TEXT": "<b>lizarp Egg</b>\n<i><style=cSub><size=75%>Gain a follower by offering an item!</size></style></i>",
         "LEMURIAN_EGG_DESCRIPTION": "A Lemurian Egg with a life waiting within. Offer an item and gain a follower, imbuing all devoted Lemurians with the item's effect.",
 
-        "MERIDIAN_EVENTTRIGGER_NAME": "lmao look at this debug flag they still haven't been able to hide it's been like over a year now",
+        "MERIDIAN_EVENTTRIGGER_NAME": "lmao look at this debug flag they still haven't been able to hide it's been 2 years",
         "MERIDIAN_EVENTTRIGGER_CONTEXT": "thanks gearbox",
 
         "SHRINE_REBIRTH_NAME": "shrine of unbirth",
@@ -466,7 +466,7 @@
         "UNLOCKABLE_LOG_STAGES_HABITATFALL": "Environment Log: Golden Dieback",
 
         "UNLOCKABLE_LOG_HALCYONITE": "Monster Log: Halcyonite",
-        "UNLOCKABLE_LOG_FALSESONBOSS": "Monster Log: False Son",
+        "UNLOCKABLE_LOG_FALSESONBOSS": "Monster Log: the forgotten",
         "UNLOCKABLE_LOG_SCORCHLING": "Monster Log: Scorch Worm",
         "UNLOCKABLE_LOG_CHILD": "Monster Log: Child",
 
@@ -497,8 +497,8 @@
         "FALSESON_SKIN_ALT1_NAME": "Unchained",
         "CHEF_SKIN_ALT1_NAME": "PRES-10",
 
-        "ACHIEVEMENT_FALSESONCLEARGAMEMONSOON_NAME": "False Son: Mastery",
-        "ACHIEVEMENT_FALSESONCLEARGAMEMONSOON_DESCRIPTION": "As False Son, beat the game or obliterate on PISSING",
+        "ACHIEVEMENT_FALSESONCLEARGAMEMONSOON_NAME": "the forgotten: Mastery",
+        "ACHIEVEMENT_FALSESONCLEARGAMEMONSOON_DESCRIPTION": "As the forgotten, beat the game or obliterate on PISSING",
 
         "ACHIEVEMENT_SEEKERCLEARGAMEMONSOON_NAME": "artificer 2: Mastery",
         "ACHIEVEMENT_SEEKERCLEARGAMEMONSOON_DESCRIPTION": "As artificer 2, beat the game or obliterate on PISSING",
@@ -506,14 +506,14 @@
         "ACHIEVEMENT_CHEFCLEARGAMEMONSOON_NAME": "CHEF: Mastery",
         "ACHIEVEMENT_CHEFCLEARGAMEMONSOON_DESCRIPTION": "As CHEF, beat the game or obliterate on PISSING",
 
-        "ACHIEVEMENT_FALSESONLASERMULTIKILL_NAME": "False Son: Stare Them Down",
-        "ACHIEVEMENT_FALSESONLASERMULTIKILL_DESCRIPTION": "As False Son, kill 15 enemies with one activation of Laser of the Father.",
+        "ACHIEVEMENT_FALSESONLASERMULTIKILL_NAME": "the forgotten: Stare Them Down",
+        "ACHIEVEMENT_FALSESONLASERMULTIKILL_DESCRIPTION": "As the forgotten, kill 15 enemies with one activation of Laser of the Father.",
 
-        "ACHIEVEMENT_FALSESONKILLMITHRIXWITHGOLDENGAL_NAME": "False Son: Family Bonding",
-        "ACHIEVEMENT_FALSESONKILLMITHRIXWITHGOLDENGAL_DESCRIPTION": "As False Son, have Aurelionite kill the final boss while the final boss is inflicted with at least one Lunar Ruin.",
+        "ACHIEVEMENT_FALSESONKILLMITHRIXWITHGOLDENGAL_NAME": "the forgotten: Family Bonding",
+        "ACHIEVEMENT_FALSESONKILLMITHRIXWITHGOLDENGAL_DESCRIPTION": "As the forgotten, have Aurelionite kill the final boss while the final boss is inflicted with at least one Lunar Ruin.",
 
-        "ACHIEVEMENT_FALSESONGROWTHCHALLENGE_NAME": "False Son: Protein Heavy Diet",
-        "ACHIEVEMENT_FALSESONGROWTHCHALLENGE_DESCRIPTION": "As False Son, gain 40 additional Lunar Spikes through Growth.",
+        "ACHIEVEMENT_FALSESONGROWTHCHALLENGE_NAME": "the forgotten: yum yum i love stone flux pauldron",
+        "ACHIEVEMENT_FALSESONGROWTHCHALLENGE_DESCRIPTION": "As the forgotten, get 50 billion health",
 
         "ACHIEVEMENT_SEEKERAIRMULTIHIT_NAME": "artificer 2: Airborne Souls",
         "ACHIEVEMENT_SEEKERAIRMULTIHIT_DESCRIPTION": "As artificer 2, hit three or more airborne enemies with a single use of the exploding third hit of Spirit Punch.",
@@ -526,7 +526,7 @@
 
         "COST_SOULCOST_FORMAT": "{0}% hp bar",
 
-        "FALSESONBOSS_DIALOGUE_FORMAT": "<color=#c6d5ff><size=120%>False Son: {0}</color></size>",
+        "FALSESONBOSS_DIALOGUE_FORMAT": "<color=#c6d5ff><size=120%>the forgotten: {0}</color></size>",
 
         "FALSESONBOSS_SPAWN_1": "Leave me.",
         "FALSESONBOSS_SPAWN_2": "If you insist.",
